@@ -1,0 +1,625 @@
+Book_Title,Author,Genres,Rating
+Little House in the Big Woods,Laura Ingalls Wilder,"['Classics', 'Historical Fiction', 'Childrens', 'Fiction', 'Young Adult', 'Historical', 'Middle Grade']",4.20
+Julius Caesar,William Shakespeare,"['Plays', 'Fiction', 'Drama', 'School', 'Classics', 'Historical Fiction', 'Read For School']",3.70
+The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,"['Historical Fiction', 'Fiction', 'Romance', 'Historical', 'World War II', 'Book Club', 'War']",4.19
+Harry Potter and the Order of the Phoenix,J.K. Rowling,"['Young Adult', 'Fiction', 'Magic', 'Childrens', 'Audiobook', 'Adventure', 'Middle Grade']",4.50
+The Elements of Style,William Strunk Jr.,"['Writing', 'Nonfiction', 'Reference', 'Language', 'Classics', 'Education', 'Self Help']",4.18
+"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,"['Nonfiction', 'History', 'Biography', 'World War II', 'War', 'Historical', 'Audiobook']",4.38
+The Importance of Being Earnest,Oscar Wilde,"['Classics', 'Plays', 'Fiction', 'Drama', 'Humor', 'School', 'Literature']",4.17
+David Copperfield,Charles Dickens,"['Fiction', 'Classics', 'Literature', 'Historical Fiction', '19th Century', 'Novels', 'Victorian']",4.03
+For Whom the Bell Tolls,Ernest Hemingway,"['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'War', 'Novels', 'American']",3.98
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,"['Philosophy', 'Fiction', 'Classics', 'Spirituality', 'Travel', 'Psychology', 'Self Help']",3.78
+The Girl Who Played with Fire,Stieg Larsson,"['Fiction', 'Mystery', 'Thriller', 'Crime', 'Mystery Thriller', 'Suspense', 'Contemporary']",4.25
+Death of a Salesman,Arthur Miller,"['Classics', 'Plays', 'Fiction', 'Drama', 'School', 'Theatre', 'Literature']",3.57
+The Thorn Birds,Colleen McCullough,"['Fiction', 'Historical Fiction', 'Romance', 'Classics', 'Historical', 'Historical Romance', 'Novels']",4.24
+The Communist Manifesto,Karl Marx,"['Philosophy', 'Nonfiction', 'Politics', 'Classics', 'History', 'Economics', 'Sociology']",3.65
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,"['Nonfiction', 'Travel', 'Memoir', 'Humor', 'Nature', 'Adventure', 'Audiobook']",4.06
+Othello,William Shakespeare,"['Classics', 'Plays', 'Fiction', 'School', 'Theatre', 'Literature', 'Read For School']",3.89
+Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,"['Fantasy', 'Fiction', 'Adult', 'Retellings', 'Science Fiction Fantasy', 'Witches', 'Adult Fiction']",3.54
+Norwegian Wood,Haruki Murakami,"['Fiction', 'Romance', 'Japan', 'Japanese Literature', 'Classics', 'Novels', 'Literary Fiction']",4.01
+Room,Emma Donoghue,"['Fiction', 'Contemporary', 'Adult', 'Thriller', 'Adult Fiction', 'Audiobook', 'Book Club']",4.08
+Beowulf,Unknown,"['Poetry', 'Fiction', 'Fantasy', 'Classics', 'Mythology', 'School', 'Literature']",3.49
+It,Stephen King,"['Horror', 'Fiction', 'Thriller', 'Fantasy', 'Classics', 'Audiobook', 'Mystery']",4.24
+Eragon,Christopher Paolini,"['Fantasy', 'Young Adult', 'Fiction', 'Dragons', 'Adventure', 'Magic', 'High Fantasy']",3.95
+A Fine Balance,Rohinton Mistry,"['Fiction', 'Historical Fiction', 'India', 'Indian Literature', 'Literary Fiction', 'Historical', 'Canada']",4.37
+Shōgun,James Clavell,"['Historical Fiction', 'Fiction', 'Japan', 'Historical', 'Classics', 'Adventure', 'Literature']",4.41
+The Plague,Albert Camus,"['Fiction', 'Classics', 'Philosophy', 'France', 'Literature', 'French Literature', 'Novels']",4.02
+The Chosen,Chaim Potok,"['Fiction', 'Classics', 'Historical Fiction', 'Young Adult', 'Jewish', 'Religion', 'School']",4.07
+The Reader,Bernhard Schlink,"['Fiction', 'Historical Fiction', 'Classics', 'German Literature', 'Romance', 'Holocaust', 'Historical']",3.78
+Th1rteen R3asons Why,Jay Asher,"['Young Adult', 'Fiction', 'Contemporary', 'Realistic Fiction', 'Mystery', 'Mental Health', 'Teen']",3.85
+The Martian Chronicles,Ray Bradbury,"['Science Fiction', 'Fiction', 'Classics', 'Short Stories', 'Fantasy', 'Science Fiction Fantasy', 'Audiobook']",4.15
+Who Moved My Cheese?,Spencer Johnson,"['Nonfiction', 'Self Help', 'Business', 'Psychology', 'Leadership', 'Personal Development', 'Management']",3.86
+"Lamb: The Gospel According to Biff, Christ’s Childhood Pal",Christopher Moore,"['Fiction', 'Humor', 'Historical Fiction', 'Fantasy', 'Religion', 'Comedy', 'Historical']",4.23
+The Awakening,Kate Chopin,"['Classics', 'Fiction', 'Feminism', 'School', 'Literature', 'Historical Fiction', 'Read For School']",3.68
+The Trigger: Hunting the Assassin Who Brought the World to War,Tim Butcher,"['History', 'Nonfiction', 'World War I', 'War', 'Biography', 'Travel', 'Historical']",3.80
+Do Androids Dream of Electric Sheep?,Philip K. Dick,"['Science Fiction', 'Fiction', 'Dystopia', 'Cyberpunk', 'Science Fiction Fantasy', 'Fantasy', 'Classics']",4.09
+Calvin and Hobbes,Bill Watterson,"['Comics', 'Humor', 'Graphic Novels', 'Fiction', 'Childrens', 'Comedy', 'Graphic Novels Comics']",4.61
+The Host,Stephenie Meyer,"['Young Adult', 'Fantasy', 'Science Fiction', 'Romance', 'Fiction', 'Dystopia', 'Paranormal']",3.86
+"Cry, the Beloved Country",Alan Paton,"['Fiction', 'Classics', 'Historical Fiction', 'South Africa', 'Literature', 'School', 'Novels']",3.92
+Steppenwolf,Hermann Hesse,"['Fiction', 'Classics', 'Philosophy', 'German Literature', 'Literature', 'Novels', 'Germany']",4.13
+Antigone,Sophocles,"['Classics', 'Plays', 'Fiction', 'School', 'Mythology', 'Read For School', 'Theatre']",3.67
+Holy Bible: New International Version,Anonymous,"['Christian', 'Nonfiction', 'Classics', 'Christianity', 'Religion', 'Reference', 'Spirituality']",4.61
+The Girl Who Kicked the Hornet’s Nest,Stieg Larsson,"['Fiction', 'Mystery', 'Thriller', 'Crime', 'Mystery Thriller', 'Suspense', 'Contemporary']",4.24
+The Elephant Tree,R.D. Ronald,"['Thriller', 'Fiction', 'Mystery', 'Crime', 'Drama', 'Suspense', 'Contemporary']",3.69
+Much Ado About Nothing,William Shakespeare,"['Plays', 'Fiction', 'Drama', 'Classics', 'Romance', 'School', 'Theatre']",4.06
+Johnny Got His Gun,Dalton Trumbo,"['Fiction', 'Classics', 'War', 'Historical Fiction', 'Horror', 'Literature', 'Novels']",4.20
+The Cider House Rules,John Irving,"['Fiction', 'Classics', 'Historical Fiction', 'Literature', 'Literary Fiction', 'Contemporary', 'Novels']",4.16
+"Faust, First Part",Johann Wolfgang von Goethe,"['Classics', 'Fiction', 'Plays', 'Poetry', 'German Literature', 'Drama', 'Literature']",3.85
+Kafka on the Shore,Haruki Murakami,"['Fiction', 'Magical Realism', 'Fantasy', 'Japanese Literature', 'Novels', 'Literature', 'Classics']",4.13
+Inferno,Dante Alighieri,"['Classics', 'Poetry', 'Fiction', 'Literature', 'Religion', 'Fantasy', 'School']",4.02
+The Pilgrim's Progress,John Bunyan,"['Fiction', 'Christian', 'Religion', 'Christian Fiction', 'Classics', 'Christianity', 'Theology']",4.05
+Wonder,R.J. Palacio,"['Young Adult', 'Fiction', 'Middle Grade', 'Contemporary', 'Realistic Fiction', 'Childrens', 'School']",4.37
+Gone Girl,Gillian Flynn,"['Fiction', 'Mystery', 'Thriller', 'Mystery Thriller', 'Crime', 'Suspense', 'Contemporary']",4.13
+Dead Poets Society,N.H. Kleinbaum,"['Fiction', 'Young Adult', 'Contemporary', 'Poetry', 'Novels', 'Drama', 'Coming Of Age']",4.18
+Something Wicked This Way Comes,Ray Bradbury,"['Horror', 'Fantasy', 'Fiction', 'Classics', 'Science Fiction', 'Young Adult', 'Halloween']",3.91
+The House at Pooh Corner,A.A. Milne,"['Classics', 'Childrens', 'Fiction', 'Fantasy', 'Animals', 'Audiobook', 'Middle Grade']",4.37
+Pericles and Aspasia: A Story of Ancient Greece,Yvonne Korshak,"['Fiction', 'Drama', 'Love', 'Romantic', 'Romance', 'Young Adult Romance', 'Chick Lit']",4.30
+Fear and Loathing in Las Vegas,Hunter S. Thompson,"['Fiction', 'Classics', 'Humor', 'Journalism', 'Novels', 'Literature', 'American']",4.07
+Jurassic Park,Michael Crichton,"['Science Fiction', 'Fiction', 'Thriller', 'Adventure', 'Fantasy', 'Horror', 'Classics']",4.10
+Hatchet,Gary Paulsen,"['Fiction', 'Young Adult', 'Classics', 'Adventure', 'Middle Grade', 'Survival', 'Childrens']",3.78
+Go Ask Alice,Beatrice Sparks,"['Young Adult', 'Fiction', 'Classics', 'Contemporary', 'Mental Health', 'Banned Books', 'Realistic Fiction']",3.74
+The Things They Carried,Tim O'Brien,"['Fiction', 'Historical Fiction', 'Classics', 'War', 'Short Stories', 'School', 'Historical']",4.14
+Tuck Everlasting,Natalie Babbitt,"['Fantasy', 'Classics', 'Young Adult', 'Fiction', 'Childrens', 'Middle Grade', 'School']",3.90
+My Sister’s Keeper,Jodi Picoult,"['Fiction', 'Chick Lit', 'Young Adult', 'Drama', 'Adult', 'Adult Fiction', 'Realistic Fiction']",4.10
+Divergent,Veronica Roth,"['Young Adult', 'Dystopia', 'Fantasy', 'Fiction', 'Science Fiction', 'Romance', 'Teen']",4.14
+Stranger in a Strange Land,Robert A. Heinlein,"['Science Fiction', 'Fiction', 'Classics', 'Science Fiction Fantasy', 'Fantasy', 'Novels', 'Speculative Fiction']",3.92
+The Lightning Thief,Rick Riordan,"['Fantasy', 'Young Adult', 'Mythology', 'Fiction', 'Middle Grade', 'Adventure', 'Greek Mythology']",4.31
+The Sun Also Rises,Ernest Hemingway,"['Classics', 'Fiction', 'Literature', 'Novels', 'Historical Fiction', 'American', 'Spain']",3.79
+The Mists of Avalon,Marion Zimmer Bradley,"['Fantasy', 'Fiction', 'Historical Fiction', 'Arthurian', 'Mythology', 'Classics', 'Historical']",4.13
+Mere Christianity,C.S. Lewis,"['Christian', 'Nonfiction', 'Religion', 'Theology', 'Christianity', 'Classics', 'Philosophy']",4.35
+The Tale of Peter Rabbit,Beatrix Potter,"['Childrens', 'Classics', 'Picture Books', 'Fiction', 'Animals', 'Fantasy', 'Short Stories']",4.22
+The Phantom Tollbooth,Norton Juster,"['Fantasy', 'Fiction', 'Classics', 'Childrens', 'Young Adult', 'Middle Grade', 'Adventure']",4.20
+Murder on the Orient Express,Agatha Christie,"['Mystery', 'Fiction', 'Crime', 'Mystery Thriller', 'Thriller', 'Audiobook', 'Detective']",4.20
+The Complete Maus,Art Spiegelman,"['Graphic Novels', 'Comics', 'Nonfiction', 'History', 'Biography', 'Memoir', 'Historical']",4.57
+Number the Stars,Lois Lowry,"['Historical Fiction', 'Young Adult', 'Fiction', 'Classics', 'Childrens', 'Middle Grade', 'Historical']",4.19
+Pippi Longstocking,Astrid Lindgren,"['Classics', 'Childrens', 'Fiction', 'Middle Grade', 'Young Adult', 'Fantasy', 'Humor']",4.15
+The Diving Bell and the Butterfly,Jean-Dominique Bauby,"['Nonfiction', 'Memoir', 'Biography', 'Biography Memoir', 'Autobiography', 'France', 'Medicine']",3.98
+Stargirl,Jerry Spinelli,"['Young Adult', 'Fiction', 'Contemporary', 'Realistic Fiction', 'Romance', 'Middle Grade', 'Childrens']",3.77
+The Epic of Gilgamesh,Anonymous,"['Classics', 'Poetry', 'Fiction', 'Mythology', 'Literature', 'Fantasy', 'School']",3.72
+The Bluest Eye,Toni Morrison,"['Fiction', 'Classics', 'Historical Fiction', 'Banned Books', 'Race', 'African American', 'Literary Fiction']",4.12
+My Ántonia,Willa Cather,"['Fiction', 'Historical Fiction', 'Classics', 'Literature', 'School', 'Historical', 'American']",3.83
+The Art of Happiness,Dalai Lama XIV,"['Nonfiction', 'Philosophy', 'Spirituality', 'Self Help', 'Buddhism', 'Psychology', 'Personal Development']",4.17
+Anthem,Ayn Rand,"['Fiction', 'Classics', 'Dystopia', 'Philosophy', 'Science Fiction', 'School', 'Literature']",3.62
+Breakfast at Tiffany’s and Three Stories,Truman Capote,"['Classics', 'Fiction', 'Short Stories', 'Romance', 'American', 'Literature', 'Audiobook']",3.84
+Of Monsters And Planes,Johnathon Nicolaou,"['Autistic Spectrum Disorder', 'Science Fiction']",4.59
+Dome: Rebellion,Johnathon Nicolaou,"['Science Fiction', 'Fiction', 'Dystopia', 'Fantasy', 'Post Apocalyptic']",4.45
+White Fang,Jack London,"['Fiction', 'Classics', 'Adventure', 'Animals', 'Young Adult', 'Historical Fiction', 'Literature']",4.02
+Howl’s Moving Castle,Diana Wynne Jones,"['Fantasy', 'Young Adult', 'Fiction', 'Middle Grade', 'Magic', 'Classics', 'Childrens']",4.29
+The Heart Is a Lonely Hunter,Carson McCullers,"['Fiction', 'Classics', 'Literature', 'Novels', 'Historical Fiction', 'Southern Gothic', 'Literary Fiction']",3.99
+The Thirteenth Tale,Diane Setterfield,"['Fiction', 'Mystery', 'Historical Fiction', 'Gothic', 'Books About Books', 'Fantasy', 'Adult']",3.98
+The Remains of the Day,Kazuo Ishiguro,"['Fiction', 'Historical Fiction', 'Classics', 'Literary Fiction', 'Historical', 'Literature', 'Novels']",4.14
+A Time to Kill,John Grisham,"['Fiction', 'Thriller', 'Mystery', 'Crime', 'Suspense', 'Legal Thriller', 'Mystery Thriller']",4.11
+Around the World in Eighty Days,Jules Verne,"['Fiction', 'Adventure', 'Classics', 'Science Fiction', 'France', 'Travel', 'Fantasy']",3.94
+The Secret History,Donna Tartt,"['Fiction', 'Mystery', 'Classics', 'Contemporary', 'Thriller', 'Literary Fiction', 'Mystery Thriller']",4.17
+She’s Come Undone,Wally Lamb,"['Fiction', 'Contemporary', 'Chick Lit', 'Coming Of Age', 'Adult Fiction', 'Novels', 'Adult']",3.91
+Still Alice,Lisa Genova,"['Fiction', 'Contemporary', 'Psychology', 'Book Club', 'Adult Fiction', 'Adult', 'Audiobook']",4.32
+Marley and Me: Life and Love With the World’s Worst Dog,John Grogan,"['Nonfiction', 'Memoir', 'Animals', 'Biography', 'Dogs', 'Humor', 'Biography Memoir']",4.14
+The Left Hand of Darkness,Ursula K. Le Guin,"['Science Fiction', 'Fiction', 'Fantasy', 'Classics', 'Science Fiction Fantasy', 'Speculative Fiction', 'Feminism']",4.10
+The Voyage of the Dawn Treader,C.S. Lewis,"['Fantasy', 'Fiction', 'Young Adult', 'Childrens', 'Adventure', 'Christian', 'Middle Grade']",4.09
+Northanger Abbey,Jane Austen,"['Fiction', 'Classics', 'Gothic', 'Historical Fiction', 'Literature', '19th Century', 'Historical']",3.85
+Houdini Heart,Ki Longfellow,"['Horror', 'Fantasy', 'Mystery', 'Fiction', 'Magical Realism', 'Gothic', 'Literature']",3.84
+Middlemarch,George Eliot,"['Classics', 'Fiction', 'Historical Fiction', 'Literature', '19th Century', 'Victorian', 'Novels']",4.02
+A Wizard of Earthsea,Ursula K. Le Guin,"['Fantasy', 'Fiction', 'Young Adult', 'Science Fiction Fantasy', 'Magic', 'High Fantasy', 'Science Fiction']",4.01
+King Lear,William Shakespeare,"['Classics', 'Plays', 'Fiction', 'School', 'Theatre', 'Literature', 'Poetry']",3.91
+The Wind-Up Bird Chronicle,Haruki Murakami,"['Fiction', 'Magical Realism', 'Japanese Literature', 'Fantasy', 'Contemporary', 'Novels', 'Literature']",4.15
+"I, Robot",Isaac Asimov,"['Science Fiction', 'Fiction', 'Classics', 'Short Stories', 'Science Fiction Fantasy', 'Fantasy', 'Robots']",4.21
+The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,"['History', 'Nonfiction', 'War', 'World War II', 'Politics', 'Germany', 'Historical']",4.21
+Sarah's Key,Tatiana de Rosnay,"['Historical Fiction', 'Fiction', 'Holocaust', 'Historical', 'World War II', 'France', 'War']",4.18
+The Hunchback of Notre-Dame,Victor Hugo,"['Classics', 'Fiction', 'Historical Fiction', 'France', 'Literature', 'French Literature', 'Gothic']",4.02
+Different Seasons,Stephen King,"['Horror', 'Fiction', 'Short Stories', 'Thriller', 'Mystery', 'Fantasy', 'Classics']",4.35
+The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,"['Nonfiction', 'Food', 'Science', 'Health', 'History', 'Nutrition', 'Environment']",4.18
+Mistress Suffragette,Diana Forbes,"['Historical Fiction', 'Fiction', 'New Adult', 'Historical', 'Romance', 'Adult', 'Young Adult']",4.29
+World War Z: An Oral History of the Zombie War,Max Brooks,"['Horror', 'Fiction', 'Zombies', 'Science Fiction', 'Fantasy', 'Post Apocalyptic', 'Dystopia']",4.02
+11/22/63,Stephen King,"['Fiction', 'Historical Fiction', 'Science Fiction', 'Time Travel', 'Horror', 'Fantasy', 'Thriller']",4.34
+A Portrait of the Artist as a Young Man,James Joyce,"['Classics', 'Fiction', 'Literature', 'Irish Literature', 'Ireland', 'Novels', '20th Century']",3.64
+Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,"['Food', 'Sociology', 'Politics', 'History', 'Science', 'School', 'Business']",3.75
+"Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead",Fyodor Dostoevsky,"['Classics', 'Fiction', 'Russia', 'Philosophy', 'Russian Literature', 'Literature', 'Novels']",4.19
+I Know This Much Is True,Wally Lamb,"['Fiction', 'Contemporary', 'Literary Fiction', 'Novels', 'Adult Fiction', 'Mental Health', 'Mental Illness']",4.20
+The Power of Myth,Joseph Campbell,"['Nonfiction', 'Mythology', 'Philosophy', 'History', 'Psychology', 'Spirituality', 'Classics']",4.26
+Breakfast of Champions,Kurt Vonnegut Jr.,"['Fiction', 'Classics', 'Science Fiction', 'Humor', 'Literature', 'Novels', 'American']",4.07
+The Amber Spyglass,Philip Pullman,"['Fantasy', 'Young Adult', 'Fiction', 'Adventure', 'Science Fiction', 'Childrens', 'Audiobook']",4.10
+The Martian,Andy Weir,"['Science Fiction', 'Fiction', 'Audiobook', 'Adventure', 'Space', 'Adult', 'Thriller']",4.42
+Veronika Decides to Die,Paulo Coelho,"['Fiction', 'Contemporary', 'Philosophy', 'Novels', 'Psychology', 'Mental Health', 'Romance']",3.73
+Taming Flame,Therisa Peimer,"['Drama', 'Romance', 'Realistic Fiction', 'Young Adult Romance', 'Contemporary Romance', 'Romantic', 'Fiction']",4.32
+Tales of Old: Greek Mythology: Volume 1,Johnathon Nicolaou,"['Greek Mythology', 'Mythology']",4.36
+My Side of the Mountain,Jean Craighead George,"['Fiction', 'Young Adult', 'Classics', 'Childrens', 'Adventure', 'Middle Grade', 'Survival']",4.09
+The Archon of Peace,Juddy Anderson C. Punzalan,"['Fantasy', 'High Fantasy', 'Mythology', 'Fiction']",4.56
+Franny and Zooey,J.D. Salinger,"['Fiction', 'Short Stories', 'Literature', 'Classics', 'American', 'Novels', 'Literary Fiction']",3.96
+The Killer Angels,Michael Shaara,"['Historical Fiction', 'Fiction', 'Civil War', 'War', 'Historical', 'Military Fiction', 'Classics']",4.33
+Wild Swans: Three Daughters of China,Jung Chang,"['Nonfiction', 'History', 'China', 'Biography', 'Memoir', 'Asia', 'Historical']",4.28
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,"['Mystery', 'Fiction', 'Short Stories', 'Crime', 'Classics', 'Detective', 'Mystery Thriller']",4.30
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,"['Picture Books', 'Childrens', 'Fiction', 'Classics', 'Realistic Fiction', 'Humor', 'Kids']",4.24
+The Monarch's Ring,Johnathon Nicolaou,"['Fantasy', 'Young Adult', 'Urban Fantasy', 'Fiction', 'Young Adult Fantasy']",4.49
+Guess How Much I Love You,Sam McBratney,"['Picture Books', 'Childrens', 'Fiction', 'Animals', 'Classics', 'Family', 'Love']",4.39
+The Wasp Factory,Iain Banks,"['Fiction', 'Horror', 'Thriller', 'Contemporary', 'Mystery', 'Classics', 'Scotland']",3.77
+The Silmarillion,J.R.R. Tolkien,"['Fantasy', 'Fiction', 'Classics', 'High Fantasy', 'Science Fiction Fantasy', 'Epic Fantasy', 'Mythology']",4.01
+"God Is the Cure, Love Is the Answer: A Memoir",Aimee Cabo Nikolov,"['Nonfiction', 'Contemporary', 'True Story', 'Adult', 'Abuse', 'Drama', 'Book Club']",4.30
+Illusions: The Adventures of a Reluctant Messiah,Richard Bach,"['Fiction', 'Philosophy', 'Spirituality', 'Fantasy', 'Classics', 'Religion', 'Self Help']",4.15
+World Without End,Ken Follett,"['Historical Fiction', 'Fiction', 'Historical', 'Medieval', 'Audiobook', 'British Literature', 'Novels']",4.31
+The Aeneid,Virgil,"['Poetry', 'Fiction', 'Mythology', 'Classics', 'Literature', 'School', 'Fantasy']",3.86
+Zodiac Explained: Understanding the Innate Motives Behind Our Actions,Alb Imeri,"['Astrology', 'True Crime', 'Nonfiction']",4.59
+The Eden Paradox,Barry Kirwan,"['Science Fiction', 'Fiction', 'Space Opera', 'Novels', 'Space', 'Science Fiction Fantasy', 'Speculative Fiction']",4.23
+2001: A Space Odyssey,Arthur C. Clarke,"['Science Fiction', 'Fiction', 'Classics', 'Science Fiction Fantasy', 'Space', 'Fantasy', 'Novels']",4.17
+A Storm of Swords,George R.R. Martin,"['Fantasy', 'Fiction', 'Epic Fantasy', 'Science Fiction Fantasy', 'High Fantasy', 'Adult', 'Audiobook']",4.54
+On Writing: A Memoir of the Craft,Stephen King,"['Nonfiction', 'Writing', 'Memoir', 'Biography', 'Audiobook', 'Reference', 'Autobiography']",4.34
+The Fellowship of the Ring,J.R.R. Tolkien,"['Fantasy', 'Classics', 'Fiction', 'Adventure', 'High Fantasy', 'Science Fiction Fantasy', 'Audiobook']",4.39
+The Satanic Verses,Salman Rushdie,"['Fiction', 'Classics', 'Magical Realism', 'Fantasy', 'Literature', 'Religion', 'Banned Books']",3.71
+Desert Outcast,Juddy Anderson C. Punzalan,"['Fantasy', 'Fiction']",4.60
+"Why They Stay: Sex Scandals, Deals, and Hidden Agendas of Eight Political Wives",Anne Michaud,"['Nonfiction', 'Politics', 'Inspirational', 'Education', 'History', 'How To', 'Biography']",4.29
+Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,"['Nonfiction', 'Psychology', 'Self Help', 'Business', 'Audiobook', 'Personal Development', 'Sociology']",4.08
+The Other Boleyn Girl,Philippa Gregory,"['Historical Fiction', 'Fiction', 'Historical', 'Romance', 'Adult', 'British Literature', 'Historical Romance']",4.08
+Cyrano de Bergerac,Edmond Rostand,"['Classics', 'Plays', 'Fiction', 'Drama', 'France', 'Romance', 'Theatre']",4.06
+Everything is Illuminated,Jonathan Safran Foer,"['Fiction', 'Historical Fiction', 'Contemporary', 'Novels', 'Literature', 'Magical Realism', 'Literary Fiction']",3.89
+Helter Skelter: The True Story of the Manson Murders,Vincent Bugliosi,"['True Crime', 'Nonfiction', 'Crime', 'History', 'Horror', 'Biography', 'Audiobook']",4.06
+Snow Falling on Cedars,David Guterson,"['Fiction', 'Historical Fiction', 'Mystery', 'Historical', 'Literature', 'Literary Fiction', 'Novels']",3.86
+Thus Spoke Zarathustra,Friedrich Nietzsche,"['Philosophy', 'Classics', 'Nonfiction', 'German Literature', 'Literature', 'Psychology', 'Religion']",4.07
+Midnight’s Children,Salman Rushdie,"['Fiction', 'Magical Realism', 'Classics', 'India', 'Historical Fiction', 'Fantasy', 'Literature']",3.98
+Don't Sweat the Small Stuff ... and It's All Small Stuff: Simple Ways to Keep the Little Things From Taking Over Your Life,Richard Carlson,"['Self Help', 'Nonfiction', 'Psychology', 'Personal Development', 'Philosophy', 'Inspirational', 'Business']",4.00
+Into Thin Air: A Personal Account of the Mt. Everest Disaster,Jon Krakauer,"['Nonfiction', 'Adventure', 'Memoir', 'Travel', 'Biography', 'History', 'Survival']",4.24
+Survival in Auschwitz,Primo Levi,"['Nonfiction', 'History', 'Holocaust', 'Memoir', 'Biography', 'World War II', 'War']",4.33
+The Lottery and Other Stories,Shirley Jackson,"['Short Stories', 'Horror', 'Fiction', 'Classics', 'Gothic', 'Literature', 'Audiobook']",4.03
+Doctor Zhivago,Boris Pasternak,"['Fiction', 'Historical Fiction', 'Russia', 'Russian Literature', 'Classics', 'Romance', 'Literature']",4.01
+Isabella Warrior Queen,Michael G. Kramer,"['History', 'Nonfiction', 'Historical', 'Biography']",4.30
+The Federalist Papers,Alexander Hamilton,"['History', 'Politics', 'Nonfiction', 'Classics', 'Philosophy', 'American History', 'Law']",4.10
+The English Patient,Michael Ondaatje,"['Fiction', 'Historical Fiction', 'Classics', 'Romance', 'War', 'Historical', 'Canada']",3.86
+Death Leaves a Shadow,Gabriel F.W. Koch,"['Novels', 'Fiction', 'Drama', 'Adventure', 'Science Fiction', 'Mystery', 'Crime']",4.30
+Silas Marner,George Eliot,"['Classics', 'Fiction', 'Literature', 'Historical Fiction', '19th Century', 'Victorian', 'Novels']",3.68
+Bel Canto,Ann Patchett,"['Fiction', 'Contemporary', 'Literary Fiction', 'Book Club', 'Historical Fiction', 'Music', 'Novels']",3.93
+Miss Peregrine's Home for Peculiar Children,Ransom Riggs,"['Fantasy', 'Young Adult', 'Fiction', 'Paranormal', 'Mystery', 'Horror', 'Historical Fiction']",3.92
+Meditations,Marcus Aurelius,"['Philosophy', 'Nonfiction', 'History', 'Self Help', 'Psychology', 'Classics', 'Personal Development']",4.28
+Four Great Tragedies: Hamlet / Othello / King Lear / Macbeth,William Shakespeare,"['Classics', 'Plays', 'Fiction', 'Drama', 'Poetry', 'Literature', 'Historical Fiction']",4.42
+The Lost Hero,Rick Riordan,"['Fantasy', 'Mythology', 'Young Adult', 'Fiction', 'Middle Grade', 'Adventure', 'Greek Mythology']",4.30
+Journey to the Center of the Earth,Jules Verne,"['Classics', 'Science Fiction', 'Fiction', 'Adventure', 'Fantasy', 'France', 'Literature']",3.85
+House of Leaves,Mark Z. Danielewski,"['Horror', 'Fiction', 'Fantasy', 'Mystery', 'Thriller', 'Contemporary', 'Novels']",4.09
+Pet Sematary,Stephen King,"['Horror', 'Fiction', 'Thriller', 'Fantasy', 'Audiobook', 'Paranormal', 'Adult']",4.06
+The Tales of Beedle the Bard,J.K. Rowling,"['Fantasy', 'Fiction', 'Young Adult', 'Short Stories', 'Childrens', 'Magic', 'Middle Grade']",4.04
+Requiem for a Dream,Hubert Selby Jr.,"['Fiction', 'Classics', 'Thriller', 'Contemporary', 'Mystery', 'Literature', 'Novels']",4.11
+The Girl on the Train,Paula Hawkins,"['Fiction', 'Mystery', 'Thriller', 'Mystery Thriller', 'Crime', 'Suspense', 'Contemporary']",3.96
+Dandelion Wine,Ray Bradbury,"['Classics', 'Science Fiction', 'Fantasy', 'Young Adult', 'Short Stories', 'Coming Of Age', 'Magical Realism']",4.08
+Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,"['Nonfiction', 'Psychology', 'Business', 'Self Help', 'Science', 'Sociology', 'Audiobook']",3.96
+The Maze Runner,James Dashner,"['Young Adult', 'Dystopia', 'Science Fiction', 'Fiction', 'Fantasy', 'Post Apocalyptic', 'Teen']",4.05
+گم شده ای در مه,سید مرتضی مصطفوی,"['Fiction', 'Philosophy', 'Spirituality']",3.79
+The House on Mango Street,Sandra Cisneros,"['Fiction', 'Classics', 'Young Adult', 'Short Stories', 'School', 'Coming Of Age', 'Contemporary']",3.69
+The Complete Stories and Poems,Edgar Allan Poe,"['Classics', 'Poetry', 'Horror', 'Fiction', 'Short Stories', 'Gothic', 'Mystery']",4.39
+Worm Holes,Kyle Keyes,"['Fiction', 'Young Adult', 'Adventure', 'Novels', 'New Adult', 'Adult', 'Fantasy']",4.34
+Hiroshima,John Hersey,"['History', 'Nonfiction', 'War', 'Classics', 'Japan', 'World War II', 'Historical']",4.03
+The V Girl: A Coming of Age Story,Mya Robarts,"['Romance', 'Coming Of Age', 'Young Adult', 'Dystopia', 'Love', 'War', 'Fiction']",3.98
+The Brief Wondrous Life of Oscar Wao,Junot Díaz,"['Fiction', 'Contemporary', 'Magical Realism', 'Literary Fiction', 'Novels', 'Historical Fiction', 'Literature']",3.89
+"The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth",M. Scott Peck,"['Psychology', 'Nonfiction', 'Self Help', 'Spirituality', 'Philosophy', 'Personal Development', 'Religion']",4.08
+The Historian,Elizabeth Kostova,"['Fiction', 'Historical Fiction', 'Fantasy', 'Horror', 'Vampires', 'Mystery', 'Historical']",3.80
+The Scarlet Pimpernel,Emmuska Orczy,"['Classics', 'Historical Fiction', 'Fiction', 'Adventure', 'Historical', 'Mystery', 'France']",4.07
+Shakespeare's Sonnets,William Shakespeare,"['Poetry', 'Classics', 'Fiction', 'Literature', 'Romance', 'Plays', 'School']",4.25
+To Kill a Mockingbird,Harper Lee,"['Classics', 'Fiction', 'Historical Fiction', 'School', 'Literature', 'Young Adult', 'Historical']",4.26
+Harry Potter and the Sorcerer’s Stone,J.K. Rowling,"['Fantasy', 'Fiction', 'Young Adult', 'Magic', 'Childrens', 'Middle Grade', 'Audiobook']",4.47
+Pride and Prejudice,Jane Austen,"['Fiction', 'Historical Fiction', 'Historical', 'Literature', 'Audiobook', 'Novels', 'Historical Romance']",4.29
+The Diary of a Young Girl,Anne Frank,"['Classics', 'Nonfiction', 'Biography', 'Memoir', 'Historical', 'Holocaust', 'Autobiography']",4.19
+Animal Farm,George Orwell,"['Classics', 'Fiction', 'Dystopia', 'Fantasy', 'School', 'Literature', 'Science Fiction']",3.99
+The Little Prince,Antoine de Saint-Exupéry,"['Fiction', 'Fantasy', 'Childrens', 'France', 'Philosophy', 'Young Adult', 'Literature']",4.33
+1984,George Orwell,"['Classics', 'Fiction', 'Science Fiction', 'Dystopia', 'Literature', 'Politics', 'Novels']",4.19
+The Great Gatsby,F. Scott Fitzgerald,"['Classics', 'Fiction', 'School', 'Historical Fiction', 'Romance', 'Literature', 'Novels']",3.93
+The Catcher in the Rye,J.D. Salinger,"['Classics', 'Fiction', 'Young Adult', 'Literature', 'School', 'Coming Of Age', 'Novels']",3.80
+The Lord of the Rings,J.R.R. Tolkien,"['Fantasy', 'Classics', 'Fiction', 'Adventure', 'Science Fiction Fantasy', 'High Fantasy', 'Epic Fantasy']",4.53
+The Book Thief,Markus Zusak,"['Historical Fiction', 'Fiction', 'Young Adult', 'Classics', 'Historical', 'War', 'World War II']",4.39
+Jane Eyre,Charlotte Brontë,"['Fiction', 'Classics', 'Historical Fiction', 'Gothic', 'Literature', 'Historical', 'School']",4.15
+The Chronicles of Narnia,C.S. Lewis,"['Fantasy', 'Classics', 'Fiction', 'Young Adult', 'Childrens', 'Christian', 'Middle Grade']",4.2
+Great Expectations,Charles Dickens,"['Classics', 'Fiction', 'Literature', 'Historical Fiction', 'School', 'Novels', '19th Century']",3.79
+The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,"['Nonfiction', 'Biography', 'History', 'Christian', 'Memoir', 'Classics', 'Holocaust']",4.46
+The Good Earth,Pearl S. Buck,"['Classics', 'Fiction', 'Historical Fiction', 'China', 'Literature', 'Historical', 'Asia']",4.00
+Dracula,Bram Stoker,"['Horror', 'Fiction', 'Fantasy', 'Vampires', 'Gothic', 'Paranormal', 'Literature']",4.01
+A Wrinkle in Time,Madeleine L'Engle,"['Fantasy', 'Fiction', 'Classics', 'Young Adult', 'Science Fiction', 'Childrens', 'Middle Grade']",3.98
+The Fault in Our Stars,John Green,"['Young Adult', 'Fiction', 'Contemporary', 'Realistic Fiction', 'Teen', 'Coming Of Age', 'Novels']",4.14
+Matilda,Roald Dahl,"['Fiction', 'Childrens', 'Classics', 'Fantasy', 'Middle Grade', 'Young Adult', 'Humor']",4.34
+The Perks of Being a Wallflower,Stephen Chbosky,"['Young Adult', 'Fiction', 'Coming Of Age', 'Classics', 'Romance', 'Mental Health', 'Realistic Fiction']",4.23
+A Story of Yesterday,Sergio Cobo,"['Thriller', 'Spanish Literature', 'European Literature', 'Mystery', 'Fiction', 'Magical Realism', 'Drama']",4.59
+Brave New World,Aldous Huxley,"['Classics', 'Fiction', 'Science Fiction', 'Dystopia', 'Literature', 'Novels', 'School']",3.99
+Sense and Sensibility,Jane Austen,"['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'Historical', 'Audiobook', 'Classic Literature']",4.08
+The Princess Bride,William Goldman,"['Fantasy', 'Classics', 'Fiction', 'Romance', 'Humor', 'Young Adult', 'Adventure']",4.27
+The Iliad,Homer,"['Poetry', 'Fiction', 'Mythology', 'Classics', 'Literature', 'Fantasy', 'Historical Fiction']",3.91
+East of Eden,John Steinbeck,"['Fiction', 'Classics', 'Historical Fiction', 'Literature', 'Novels', 'American', 'Literary Fiction']",4.41
+Where the Red Fern Grows,Wilson Rawls,"['Classics', 'Fiction', 'Young Adult', 'Childrens', 'Middle Grade', 'Historical Fiction', 'Animals']",4.11
+The Tell-Tale Heart and Other Writings,Edgar Allan Poe,"['Classics', 'Horror', 'Fiction', 'Short Stories', 'Poetry', 'Mystery', 'Gothic']",4.19
+Man’s Search for Meaning,Viktor E. Frankl,"['Nonfiction', 'Psychology', 'Philosophy', 'Self Help', 'Memoir', 'Biography', 'Spirituality']",4.37
+The Lorax,Dr. Seuss,"['Childrens', 'Picture Books', 'Fiction', 'Classics', 'Poetry', 'Fantasy', 'Environment']",4.35
+Catching Fire,Suzanne Collins,"['Young Adult', 'Dystopia', 'Fiction', 'Fantasy', 'Science Fiction', 'Romance', 'Audiobook']",4.33
+A Game of Thrones,George R.R. Martin,"['Fantasy', 'Fiction', 'Epic Fantasy', 'High Fantasy', 'Adult', 'Science Fiction Fantasy', 'Adventure']",4.44
+Teenagers War: Vietnam 1969,Michael Zboray,"['Nonfiction', 'How To', 'Contemporary', 'History', 'Drama', 'Book Club', 'Education']",4.36
+The Moon Is a Harsh Mistress,Robert A. Heinlein,"['Science Fiction', 'Fiction', 'Classics', 'Science Fiction Fantasy', 'Fantasy', 'Audiobook', 'Politics']",4.16
+New Startup Mindset: Ten Mindset Shifts to Build the Company of Your Dreams,Sandra Shpilberg,"['Self Help', 'Nonfiction', 'Education', 'Productivity', 'Business', 'How To', 'Inspirational']",4.22
+Bossypants,Tina Fey,"['Nonfiction', 'Memoir', 'Humor', 'Biography', 'Audiobook', 'Comedy', 'Autobiography']",3.96
+"Of the Flame, Poems - Volume 15",Wendy E. Slater,"['Poetry', 'Nonfiction', 'Education', 'How To', 'Book Club', 'Contemporary', 'Inspirational']",4.29
+Six of Crows,Leigh Bardugo,"['Fantasy', 'Young Adult', 'Fiction', 'Young Adult Fantasy', 'LGBT', 'Adventure', 'Magic']",4.48
+Down and Rising,Rohith S. Katbamna,"['Post Apocalyptic', 'Dystopia', 'Literary Fiction', 'Science Fiction', 'Fiction']",4.71
+Howards End,E.M. Forster,"['Fiction', 'Classics', 'Historical Fiction', 'Literature', 'British Literature', 'Novels', '20th Century']",3.96
+The Secret of the Old Clock,Carolyn Keene,"['Mystery', 'Young Adult', 'Fiction', 'Classics', 'Childrens', 'Middle Grade', 'Mystery Thriller']",3.98
+Dead Fall,Brad Thor,"['Thriller', 'Fiction', 'Mystery', 'Mystery Thriller', 'Action', 'Police', 'Suspense']",4.39
+"More Than Love, A Husband's Tale",Peter B. Forster,"['Nonfiction', 'Book Club', 'Inspirational', 'Education', 'Memoir', 'How To']",4.3
+Civil Disobedience and Other Essays,Henry David Thoreau,"['Philosophy', 'Nonfiction', 'Classics', 'Politics', 'Essays', 'History', 'Literature']",4.06
+The Lady of the Tower,Elizabeth St. John,"['Historical Fiction', 'Historical', '17th Century', 'Fiction', 'British Literature', 'Medieval', 'Stuart']",4.18
+Lore,Alexandra Bracken,"['Fantasy', 'Mythology', 'Young Adult', 'Greek Mythology', 'Fiction', 'Retellings', 'Young Adult Fantasy']",3.76
+The Greatest Show on Earth: The Evidence for Evolution,Richard Dawkins,"['Science', 'Nonfiction', 'Evolution', 'Biology', 'Religion', 'Atheism', 'Philosophy']",4.16
+The Last of the Mohicans,James Fenimore Cooper,"['Classics', 'Fiction', 'Historical Fiction', 'Adventure', 'Literature', 'Historical', 'American']",3.7
+Unparalleled,D.S. Smith,"['Fiction', 'Science Fiction', 'Contemporary', 'Thriller', 'Novels', 'Mystery', 'Drama']",4.13
+Demian. Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse,"['Fiction', 'Philosophy', 'German Literature', 'Literature', 'Novels', 'Classics', 'Germany']",4.14
+Wolf Hall,Hilary Mantel,"['Historical Fiction', 'Fiction', 'Historical', 'British Literature', 'Audiobook', 'Literary Fiction', 'Novels']",3.9
+The Sum of All Fears,Tom Clancy,"['Fiction', 'Thriller', 'Espionage', 'Action', 'Military Fiction', 'Suspense', 'Adventure']",4.06
+You Can Heal Your Life,Louise L. Hay,"['Self Help', 'Nonfiction', 'Spirituality', 'Health', 'Psychology', 'Personal Development', 'Inspirational']",4.15
+The Miraculous Journey of Edward Tulane,Kate DiCamillo,"['Fantasy', 'Fiction', 'Childrens', 'Middle Grade', 'Young Adult', 'Adventure', 'Animals']",4.38
+Kindred,Octavia E. Butler,"['Historical Fiction', 'Fiction', 'Science Fiction', 'Fantasy', 'Time Travel', 'Classics', 'Historical']",4.3
+"Dodging Satan: My Irish/Italian, Sometimes Awesome, But Mostly Creepy, Childhood",Kathleen Zamboni McCormick,"['Drama', 'Contemporary', 'Novels', 'Fiction']",4.28
+The Silence of the Girls,Pat Barker,"['Historical Fiction', 'Mythology', 'Fiction', 'Greek Mythology', 'Fantasy', 'Historical', 'Retellings']",3.9
+The Innocent Man: Murder and Injustice in a Small Town,John Grisham,"['Nonfiction', 'True Crime', 'Crime', 'Mystery', 'Thriller', 'History', 'Law']",3.85
+Walk Two Moons,Sharon Creech,"['Young Adult', 'Fiction', 'Middle Grade', 'Childrens', 'Realistic Fiction', 'School', 'Classics']",3.99
+The Bonfire of the Vanities,Tom Wolfe,"['Fiction', 'Classics', 'Literature', 'Novels', 'New York', 'Contemporary', 'Literary Fiction']",3.9
+The Passage,Justin Cronin,"['Horror', 'Fiction', 'Science Fiction', 'Fantasy', 'Post Apocalyptic', 'Vampires', 'Dystopia']",4.04
+The Wrong Daughter,Dandy Smith,"['Thriller', 'Mystery', 'Mystery Thriller', 'Drama', 'Suspense', 'Fiction', 'Crime']",4.17
+A Team of One: An Unsanctioned Asset Thriller,Brad Lee,"['Suspense', 'Thriller', 'Mystery', 'Action', 'Young Adult', 'Detective', 'Fiction']",4.58
+Rage and Ruin,Jennifer L. Armentrout,"['Fantasy', 'Romance', 'Young Adult', 'Paranormal', 'Urban Fantasy', 'Audiobook', 'Angels']",4.15
+The Black Order,Jeff Rovin,"['Fiction', 'Thriller', 'Spy Thriller', 'Mystery Thriller', 'Military Fiction', 'Adult', 'Politics']",3.87
+Love on the Line,Kirsten Fullmer,"['Romance', 'Contemporary', 'Fiction', 'Young Adult', 'Love Story', 'New Adult', 'Adult']",4.27
+Quicker,Laurence E. Dahners,"['Science Fiction', 'Young Adult', 'Thriller', 'Mystery Thriller', 'Action', 'Crime', 'Mystery']",4.3
+The Goose Girl,Shannon Hale,"['Fantasy', 'Young Adult', 'Romance', 'Fiction', 'Fairy Tales', 'Retellings', 'Middle Grade']",4.14
+The Bean Trees,Barbara Kingsolver,"['Fiction', 'Contemporary', 'Literary Fiction', 'Novels', 'Classics', 'Adult Fiction', 'Adult']",4
+Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,"['Nonfiction', 'Memoir', 'Travel', 'Biography', 'Adventure', 'Audiobook', 'Biography Memoir']",4.06
+The Manson File: Myth and Reality of an Outlaw Shaman,Nikolas Schreck,"['True Crime', 'Crime', 'Cults', 'Counter Culture', 'Nonfiction', 'Psychology', 'Satanism']",4.16
+Inferno,Dan Brown,"['Fiction', 'Thriller', 'Mystery', 'Mystery Thriller', 'Historical Fiction', 'Suspense', 'Adventure']",3.89
+All I Really Need to Know I Learned in Kindergarten,Robert Fulghum,"['Nonfiction', 'Humor', 'Self Help', 'Philosophy', 'Essays', 'Inspirational', 'Short Stories']",4
+The Secret of the Blood Charm,David Clark,"['Young Adult', 'Action', 'Novels', 'Teen', 'Adventure', 'Fiction', 'Paranormal']",4.25
+Code Red,Kyle Mills,"['Thriller', 'Fiction', 'Mystery', 'Espionage', 'Suspense', 'Action', 'Audiobook']",4.42
+Deep Sleep,Steven Konkoly,"['Fiction', 'Thriller', 'Mystery', 'Espionage', 'Spy Thriller', 'Mystery Thriller', 'Suspense']",4.07
+Ender's Shadow,Orson Scott Card,"['Science Fiction', 'Fiction', 'Young Adult', 'Fantasy', 'Science Fiction Fantasy', 'Audiobook', 'Space']",4.32
+The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,"['Nonfiction', 'History', 'Business', 'Economics', 'Politics', 'Technology', 'Sociology']",3.69
+The Monkey Wrench Gang,Edward Abbey,"['Fiction', 'Nature', 'Environment', 'Classics', 'Humor', 'Politics', 'Novels']",4.08
+Forty-Ninth,Boris Pronsky,"['Historical Fiction', 'Novels', 'Fiction', 'Historical', 'American History', 'Russian History', '19th Century']",4.29
+The Red and the Black,Stendhal,"['Fiction', 'France', 'French Literature', 'Classics', 'Literature', '19th Century', 'Novels']",3.87
+No Plan B,Lee Child,"['Thriller', 'Fiction', 'Mystery', 'Crime', 'Action', 'Audiobook', 'Suspense']",3.98
+Bastard Out of Carolina,Dorothy Allison,"['Fiction', 'Classics', 'Southern', 'Coming Of Age', 'Literary Fiction', 'Novels', 'Queer']",4.13
+The Day of the Jackal,Frederick Forsyth,"['Fiction', 'Thriller', 'Mystery', 'Crime', 'Historical Fiction', 'Espionage', 'Suspense']",4.27
+City of Lost Souls,Cassandra Clare,"['Fantasy', 'Young Adult', 'Romance', 'Paranormal', 'Urban Fantasy', 'Vampires', 'Fiction']",4.22
+An Inquiry into the Nature and Causes of the Wealth of Nations,Adam Smith,"['Economics', 'Nonfiction', 'Philosophy', 'Classics', 'Politics', 'History', 'Business']",3.88
+Punk 57,Penelope Douglas,"['Romance', 'New Adult', 'Contemporary', 'Young Adult', 'Contemporary Romance', 'High School', 'Fiction']",3.78
+Good to Great: Why Some Companies Make the Leap... and Others Don't,James C. Collins,"['Business', 'Nonfiction', 'Leadership', 'Management', 'Self Help', 'Buisness', 'Entrepreneurship']",4.13
+The White Tiger,Aravind Adiga,"['Fiction', 'India', 'Contemporary', 'Indian Literature', 'Novels', 'Literary Fiction', 'Literature']",3.76
+The Book of Negroes,Lawrence Hill,"['Historical Fiction', 'Fiction', 'Canada', 'Historical', 'Africa', 'African American', 'Book Club']",4.46
+Johnny Tremain,Esther Forbes,"['Historical Fiction', 'Fiction', 'Classics', 'Young Adult', 'Childrens', 'Historical', 'Middle Grade']",3.69
+Sharp Objects,Gillian Flynn,"['Mystery', 'Fiction', 'Thriller', 'Mystery Thriller', 'Crime', 'Audiobook', 'Suspense']",4.02
+The Wise Man’s Fear,Patrick Rothfuss,"['Fantasy', 'Fiction', 'Epic Fantasy', 'High Fantasy', 'Magic', 'Science Fiction Fantasy', 'Adventure']",4.55
+Open Season,Cameron Curtis,"['Thriller', 'Mystery']",4.45
+Jaws,Peter Benchley,"['Horror', 'Fiction', 'Thriller', 'Classics', 'Adventure', 'Suspense', 'Audiobook']",3.96
+We Wish to Inform You That Tomorrow We Will Be Killed with Our Families,Philip Gourevitch,"['Nonfiction', 'History', 'Africa', 'War', 'Politics', 'Rwanda', 'Journalism']",4.21
+Nausea,Jean-Paul Sartre,"['Philosophy', 'Fiction', 'Classics', 'France', 'Literature', 'French Literature', 'Novels']",3.94
+The Dead Tell Lies,J.F. Kirwan,"['Crime', 'Thriller', 'Fiction', 'British Literature']",4.35
+The Emperor,Robert Reid,"['Fantasy', 'Historical Fiction', 'Fiction', 'Historical Fantasy']",4.3
+The Great Divorce,C.S. Lewis,"['Christian', 'Fiction', 'Religion', 'Classics', 'Theology', 'Christianity', 'Fantasy']",4.31
+The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg,"['Nonfiction', 'Self Help', 'Psychology', 'Business', 'Personal Development', 'Productivity', 'Audiobook']",4.13
+Chasing the Red Queen,Karen Glista,"['Fiction', 'Young Adult', 'New Adult', 'Romance', 'Adult', 'Fantasy', 'Novels']",4.2
+The Magic Mountain,Thomas Mann,"['Fiction', 'Classics', 'German Literature', 'Literature', 'Philosophy', 'Novels', 'Germany']",4.13
+The Winds of War,Herman Wouk,"['Historical Fiction', 'Fiction', 'World War II', 'War', 'Historical', 'Classics', 'Audiobook']",4.38
+"Things I Wanted to Say, But Never Did",Monica Murphy,"['Romance', 'High School', 'Contemporary', 'Dark', 'New Adult', 'Fiction', 'Contemporary Romance']",3.63
+The Poetry of Robert Frost,Robert Frost,"['Poetry', 'Classics', 'Fiction', 'Literature', 'American', '20th Century', 'Anthologies']",4.24
+Lips of a Mastodon,Ted Bernal Guevara,"['Fiction', 'Drama', 'Psychological Thriller', 'Novels', 'Crime', 'Mystery', 'Suspense']",3.56
+The Winter of Our Discontent,John Steinbeck,"['Fiction', 'Classics', 'Literature', 'American', 'Novels', 'Literary Fiction', '20th Century']",4
+The Lighthouse Effect: How Ordinary People Can Have an Extraordinary Impact in the World,Steve Pemberton,"['Self Help', 'Nonfiction', 'Psychology', 'Inspirational', 'Education', 'How To', 'Personal Development']",4.29
+Marry Christmas,Linda Phillips,[],4.35
+Blackbird,Kay Bratt,"['Mystery', 'Thriller', 'Suspense', 'Novels', 'Mystery Thriller', 'Drama', 'Crime']",4.55
+A Long Way Gone: Memoirs of a Boy Soldier,Ishmael Beah,"['Nonfiction', 'Memoir', 'Biography', 'War', 'History', 'Biography Memoir', 'Autobiography']",4.16
+The Firm,John Grisham,"['Fiction', 'Thriller', 'Mystery', 'Crime', 'Suspense', 'Legal Thriller', 'Mystery Thriller']",4.08
+One Moment in Time,Shari Low,"['Fiction', 'Action', 'Young Adult', 'Teen', 'Adventure', 'Novels', 'Romance']",4.18
+A Fire Upon the Deep,Vernor Vinge,"['Science Fiction', 'Fiction', 'Space Opera', 'Science Fiction Fantasy', 'Space', 'Fantasy', 'Hugo Awards']",4.14
+How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships,Leil Lowndes,"['Self Help', 'Nonfiction', 'Communication', 'Psychology', 'Business', 'Personal Development', 'Relationships']",3.7
+Matterhorn,Karl Marlantes,"['Fiction', 'Historical Fiction', 'War', 'Military Fiction', 'Historical', 'Audiobook', 'Novels']",4.26
+The Bronze Horseman,Paullina Simons,"['Historical Fiction', 'Romance', 'Historical', 'Historical Romance', 'Fiction', 'War', 'Russia']",4.3
+"Mister God, This is Anna",Fynn,"['Fiction', 'Religion', 'Spirituality', 'Philosophy', 'Christian', 'Classics', 'Young Adult']",4.13
+We the Living,Ayn Rand,"['Fiction', 'Classics', 'Philosophy', 'Historical Fiction', 'Literature', 'Politics', 'Russia']",3.95
+Being and Time,Martin Heidegger,"['Philosophy', 'Nonfiction', 'Classics', 'Psychology', 'German Literature', 'Theory', 'Science']",4.05
+The Long Walk,Richard Bachman,"['Horror', 'Fiction', 'Dystopia', 'Thriller', 'Science Fiction', 'Audiobook', 'Fantasy']",4.08
+The Awakening: Fate in Motion,Suzanne Boisvert,"['Fiction', 'Contemporary', 'Novels', 'Fantasy', 'Young Adult', 'Adventure', 'Middle Grade']",4.23
+The Very Hungry Caterpillar,Eric Carle,"['Picture Books', 'Childrens', 'Fiction', 'Animals', 'Classics', 'Food', 'Counting']",4.33
+"Work Smart Now: How to Jump Start Productivity, Empower Employees, and Achieve More",Richard Polak,"['Nonfiction', 'Drama', 'Productivity', 'Business', 'Contemporary', 'Self Help', 'Education']",4.28
+The Yearling,Marjorie Kinnan Rawlings,"['Classics', 'Fiction', 'Young Adult', 'Historical Fiction', 'Animals', 'Childrens', 'Literature']",4.03
+Eyes of the Void,Adrian Tchaikovsky,"['Science Fiction', 'Space Opera', 'Fiction', 'Space', 'Science Fiction Fantasy', 'Adventure', 'Novels']",4.2
+Winter's Mourn,Mary Stone,"['Mystery', 'Thriller', 'Fiction', 'Mystery Thriller', 'Crime', 'Suspense', 'Paranormal']",4.31
+Confederates: A Novel,Thomas Keneally,"['Historical Fiction', 'Fiction', 'Civil War', 'American Civil War', 'Historical', 'War', 'Australia']",4.06
+The Mountains Sing,Nguyễn Phan Quế Mai,"['Historical Fiction', 'Fiction', 'Historical', 'War', 'Audiobook', 'Literary Fiction', 'Asian Literature']",4.32
+A Scanner Darkly,Philip K. Dick,"['Science Fiction', 'Fiction', 'Dystopia', 'Classics', 'Science Fiction Fantasy', 'Novels', 'Cyberpunk']",4.02
+The Valley of Horses,Jean M. Auel,"['Historical Fiction', 'Fiction', 'Fantasy', 'Historical', 'Romance', 'Adventure', 'Prehistoric']",4.03
+Christy,Catherine Marshall,"['Historical Fiction', 'Fiction', 'Classics', 'Christian Fiction', 'Christian', 'Romance', 'Historical']",4.24
+Anna and the French Kiss,Stephanie Perkins,"['Romance', 'Young Adult', 'Contemporary', 'Fiction', 'Chick Lit', 'Realistic Fiction', 'Contemporary Romance']",3.97
+Inside Out & Back Again,"Thanhhà Lại","['Historical Fiction', 'Poetry', 'Middle Grade', 'Young Adult', 'Fiction', 'Childrens', 'Historical']",4.12
+The Absolutely True Diary of a Part-Time Indian,Sherman Alexie,"['Young Adult', 'Fiction', 'Contemporary', 'Realistic Fiction', 'Humor', 'Coming Of Age', 'School']",4.06
+The Stars Don't Lie,Boo Walker,"['Fiction', 'Young Adult', 'Teen', 'Action', 'Novels', 'Adventure', 'Contemporary']",4.15
+The Frozen River,Ariel Lawhon,"['Historical Fiction', 'Mystery', 'Fiction', 'Audiobook', 'Historical', 'Mystery Thriller', 'Thriller']",4.45
+Quantum Energetics and Spirituality Volume 1: Aligning with Universal Consciousness,Kenneth Schmitt,"['Novels', 'Contemporary', 'Drama']",4.37
+The Crystal Cave,Mary Stewart,"['Fantasy', 'Fiction', 'Historical Fiction', 'Arthurian', 'Historical', 'Mythology', 'Science Fiction Fantasy']",4.13
+Not Without My Daughter,Betty Mahmoody,"['Nonfiction', 'Biography', 'Memoir', 'Iran', 'Biography Memoir', 'Autobiography', 'Drama']",4.16
+Lullaby,Chuck Palahniuk,"['Fiction', 'Horror', 'Contemporary', 'Fantasy', 'Novels', 'Thriller', 'American']",3.74
+We Are Legion (We Are Bob),Dennis E. Taylor,"['Science Fiction', 'Fiction', 'Audiobook', 'Space Opera', 'Fantasy', 'Humor', 'Space']",4.28
+The Three-Body Problem,Liu Cixin,"['Science Fiction', 'Fiction', 'China', 'Fantasy', 'Science Fiction Fantasy', 'Audiobook', 'Aliens']",4.09
+"Men Are from Mars, Women Are from Venus",John Gray,"['Nonfiction', 'Self Help', 'Psychology', 'Relationships', 'Personal Development', 'Marriage', 'Philosophy']",3.58
+The Book of Occult,Simon W. Clark,"['Fiction', 'Occult', 'Horror', 'Thriller', 'Mystery', 'Fantasy', 'Supernatural']",3.64
+The Blue Castle,L.M. Montgomery,"['Classics', 'Romance', 'Fiction', 'Historical Fiction', 'Young Adult', 'Historical', 'Canada']",4.3
+The Shadow Girl,Misty Mount,"['Fantasy', 'Fiction', 'Drama', 'Contemporary', 'Book Club', 'Novels', 'Young Adult']",4.25
+The Essential Rumi,Rumi (Jalal ad-Din Muhammad ar-Rumi),"['Poetry', 'Classics', 'Spirituality', 'Philosophy', 'Nonfiction', 'Islam', 'Literature']",4.39
+Under the Dome,Stephen King,"['Horror', 'Fiction', 'Science Fiction', 'Thriller', 'Fantasy', 'Mystery', 'Audiobook']",3.92
+Harriet the Spy,Louise Fitzhugh,"['Fiction', 'Childrens', 'Middle Grade', 'Classics', 'Young Adult', 'Mystery', 'Realistic Fiction']",3.95
+Starship Sakira,Bob Blanton,"['Science Fiction', 'Fiction', 'Young Adult', 'Space Opera', 'Novels', 'Speculative Fiction', 'Adventure']",4.22
+Red Queen,Victoria Aveyard,"['Fantasy', 'Young Adult', 'Dystopia', 'Romance', 'Fiction', 'Young Adult Fantasy', 'Magic']",4
+People of the Book,Geraldine Brooks,"['Historical Fiction', 'Fiction', 'Books About Books', 'Historical', 'Mystery', 'Book Club', 'Jewish']",4.03
+The Scopas Factor,Vincent Panettiere,"['Contemporary', 'Fiction', 'New Adult', 'Drama', 'Novels', 'Adult', 'Crime']",4.32
+The Deserter,Nelson DeMille,"['Fiction', 'Thriller', 'Mystery', 'Military Fiction', 'Suspense', 'Mystery Thriller', 'Adventure']",4.07
+"Sex in the Title: A Comedy about Dating, Sex, and Romance in NYC",Zack Love,"['Romance', 'Humor', 'Fiction', 'Contemporary', 'Chick Lit', 'Contemporary Romance', 'Comedy']",3.49
+Batman: The Dark Knight Returns,Frank Miller,"['Comics', 'Graphic Novels', 'Batman', 'Fiction', 'Graphic Novels Comics', 'Comic Book', 'Dc Comics']",4.26
+A Conceptual Circus,Kenneth Jarrett Singleton,"['Poetry', 'Contemporary', 'Fiction']",4.47
+Never Lie,Freida McFadden,"['Thriller', 'Mystery', 'Audiobook', 'Mystery Thriller', 'Fiction', 'Suspense', 'Psychological Thriller']",4.1
+Ordinary People,Judith Guest,"['Fiction', 'Classics', 'Contemporary', 'Psychology', 'Young Adult', 'Novels', 'Literature']",3.93
+Brighton Rock,Graham Greene,"['Fiction', 'Classics', 'Crime', 'Mystery', 'Thriller', 'Literature', 'British Literature']",3.7
+The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,Richard Preston,"['Nonfiction', 'Science', 'History', 'Medicine', 'Medical', 'Horror', 'Thriller']",4.15
+Choke,Chuck Palahniuk,"['Fiction', 'Contemporary', 'Humor', 'Novels', 'Literature', 'Adult', 'American']",3.71
+Dear John,Nicholas Sparks,"['Romance', 'Fiction', 'Chick Lit', 'Contemporary', 'Adult', 'Contemporary Romance', 'Adult Fiction']",4.04
+Hidden Pictures,Jason Rekulak,"['Horror', 'Thriller', 'Mystery', 'Fiction', 'Mystery Thriller', 'Audiobook', 'Paranormal']",4.15
+The Holy Bible: English Standard Version,Anonymous,"['Christian', 'Religion', 'Nonfiction', 'Reference', 'Christianity', 'Theology', 'Classics']",4.54
+Clockwork Princess,Cassandra Clare,"['Fantasy', 'Young Adult', 'Romance', 'Paranormal', 'Historical Fiction', 'Steampunk', 'Urban Fantasy']",4.56
+Look Me in the Eye,John Elder Robison,"['Nonfiction', 'Memoir', 'Autistic Spectrum Disorder', 'Biography', 'Psychology', 'Biography Memoir', 'Autobiography']",3.92
+The Invention of Religion,Alexander Drake,"['Religion', 'Nonfiction', 'History', 'Philosophy', 'Atheism', 'Science', 'Psychology']",3.89
+Where the Heart Is,Billie Letts,"['Fiction', 'Romance', 'Chick Lit', 'Contemporary', 'Adult Fiction', 'Adult', 'Drama']",4.03
+Beyond Good and Evil,Friedrich Nietzsche,"['Philosophy', 'Nonfiction', 'Classics', 'Psychology', 'German Literature', 'Religion', '19th Century']",4.03
+The Rules of Attraction,Bret Easton Ellis,"['Fiction', 'Contemporary', 'LGBT', 'Novels', 'American', 'Literary Fiction', 'Literature']",3.72
+To Hell and Back,Audie Murphy,"['History', 'Nonfiction', 'Biography', 'Military Fiction', 'War', 'World War II', 'Military History']",4.25
+Dark Lover,J.R. Ward,"['Paranormal', 'Vampires', 'Paranormal Romance', 'Fantasy', 'Urban Fantasy', 'Adult', 'Fiction']",4.16
+Cujo,Stephen King,"['Horror', 'Fiction', 'Thriller', 'Suspense', 'Animals', 'Audiobook', 'Adult']",3.78
+The Cadaver Factory,Kenneth Jarrett Singleton,"['Fiction', 'Horror', 'Contemporary', 'Suspense', 'Mystery', 'Science Fiction', 'Crime']",4.38
+Life After Darkness: Finding Healing and Happiness After the Cleveland Kidnappings,Michelle Knight,"['Nonfiction', 'True Crime', 'Memoir', 'Biography', 'Biography Memoir', 'Autobiography', 'Crime']",4.02
+Notes from Underground,Fyodor Dostoevsky,"['Fiction', 'Philosophy', 'Russia', 'Russian Literature', 'Literature', 'Classics', 'Novels']",4.18
+Hometown Girl at Heart,Kirsten Fullmer,"['Romance', 'Fiction', 'Contemporary', 'New Adult', 'Contemporary Romance', 'Young Adult', 'Love Story']",4.3
+The Complete Calvin and Hobbes,Bill Watterson,"['Comics', 'Humor', 'Graphic Novels', 'Fiction', 'Comedy', 'Classics', 'Comic Strips']",4.81
+The Lathe of Heaven,Ursula K. Le Guin,"['Science Fiction', 'Fiction', 'Fantasy', 'Dystopia', 'Classics', 'Science Fiction Fantasy', 'Speculative Fiction']",4.12
+Americanah,Chimamanda Ngozi Adichie,"['Fiction', 'Africa', 'Contemporary', 'Feminism', 'Literary Fiction', 'Race', 'Nigeria']",4.32
+The Seventh Spark: Volume One – Knights of the Trinity,J.B. Lion,"['Contemporary', 'Novels', 'Drama', 'Fantasy', 'Fiction']",4.32
+The Highly Sensitive Person: How to Thrive When the World Overwhelms You,Elaine N. Aron,"['Nonfiction', 'Psychology', 'Self Help', 'Mental Health', 'Personal Development', 'Health', 'Science']",3.85
+Pygmalion,George Bernard Shaw,"['Classics', 'Plays', 'Fiction', 'Drama', 'Theatre', 'School', 'Literature']",3.89
+Principles: Life and Work,Ray Dalio,"['Business', 'Nonfiction', 'Self Help', 'Finance', 'Leadership', 'Personal Development', 'Philosophy']",4.11
+"Vision to Reality: Stop Working, Start Living",Curtis L. Jenkins,"['Business', 'Nonfiction', 'Self Help', 'How To', 'Education', 'Productivity', 'Inspirational']",4.31
+The End of the Affair,Graham Greene,"['Fiction', 'Classics', 'Romance', 'Audiobook', 'Literature', 'Novels', 'British Literature']",3.9
+Killing Johnny Miracle,J.K. Franko,"['Thriller', 'Suspense', 'Mystery', 'Fiction']",4.38
+The 48 Laws of Power,Robert Greene,"['Nonfiction', 'Psychology', 'Self Help', 'Business', 'Philosophy', 'History', 'Personal Development']",4.13
+The Kitchen House,Kathleen Grissom,"['Historical Fiction', 'Fiction', 'Historical', 'Book Club', 'Audiobook', 'Adult', 'Adult Fiction']",4.22
+Smart Brevity: The Power of Saying More with Less,Jim Vandehei,"['Nonfiction', 'Business', 'Writing', 'Communication', 'Self Help', 'Leadership', 'Personal Development']",4
+Some Are Sicker Than Others,Andrew Seaward,"['Fiction', 'Contemporary', 'Thriller', 'Mental Health', 'Drama', 'Adult', 'Dark']",3.72
+On Earth We're Briefly Gorgeous,Ocean Vuong,"['Fiction', 'Poetry', 'LGBT', 'Contemporary', 'Queer', 'Literary Fiction', 'Adult']",4.04
+The Manufactured Identity,Heath Sommer,"['Mystery', 'Psychology', 'Fiction', 'Thriller', 'Suspense', 'Mystery Thriller', 'Psychological Thriller']",3.54
+Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10,Marcus Luttrell,"['Nonfiction', 'Military Fiction', 'History', 'War', 'Biography', 'Memoir', 'Military History']",4.34
+Why We Sleep: Unlocking the Power of Sleep and Dreams,Matthew Walker,"['Nonfiction', 'Science', 'Health', 'Psychology', 'Self Help', 'Neuroscience', 'Personal Development']",4.38
+The Dark Tower #1-3,Stephen King,"['Fantasy', 'Fiction', 'Horror', 'Science Fiction', 'Thriller', 'Science Fiction Fantasy', 'Epic Fantasy']",4.46
+Living the Best Day Ever,Hendri Coetzee,"['Adventure', 'Nonfiction', 'Travel', 'Memoir']",4.39
+Growing Up American,Rafael Polo,[],4.29
+He's Just Not That Into You: The No-Excuses Truth to Understanding Guys,Greg Behrendt,"['Nonfiction', 'Self Help', 'Chick Lit', 'Relationships', 'Humor', 'Psychology', 'Romance']",3.66
+Deception Point,Dan Brown,"['Fiction', 'Thriller', 'Mystery', 'Suspense', 'Mystery Thriller', 'Adventure', 'Science Fiction']",3.75
+Escape,Carolyn Jessop,"['Nonfiction', 'Memoir', 'Biography', 'Religion', 'Cults', 'Biography Memoir', 'Autobiography']",3.97
+On Liberty,John Stuart Mill,"['Philosophy', 'Nonfiction', 'Classics', 'History', 'Political Science', 'Economics', 'Politics']",3.97
+Notice Me,Emem Uko,"['Fiction', 'Young Adult', 'Contemporary', 'Adult', 'Novels', 'New Adult', 'Teen']",4.29
+Last Exit to Brooklyn,Hubert Selby Jr.,"['Fiction', 'Classics', 'New York', 'American', 'Novels', 'Literature', 'Contemporary']",3.92
+Victor's Blessing,Barbara Sontheimer,"['Contemporary', 'Novels', 'Drama', 'Historical Fiction', 'Fiction']",4.43
+The Alice Network,Kate Quinn,"['Historical Fiction', 'Fiction', 'Historical', 'Audiobook', 'World War II', 'War', 'Adult']",4.32
+A Moveable Feast,Ernest Hemingway,"['Nonfiction', 'Memoir', 'Biography', 'France', 'Classics', 'Travel', 'Literature']",4.02
+All the King’s Men,Robert Penn Warren,"['Fiction', 'Classics', 'Historical Fiction', 'Politics', 'Literature', 'Novels', 'Literary Fiction']",4.09
+In Plain Sight: A True Story of Kidnapping and Rape,Anna D. Stoddard,"['True Crime', 'Nonfiction', 'Biography', 'Memoir', 'Thriller', 'True Story', 'Abuse']",4.28
+Clockwork Prince,Cassandra Clare,"['Fantasy', 'Young Adult', 'Romance', 'Paranormal', 'Steampunk', 'Historical Fiction', 'Urban Fantasy']",4.42
+Circe,Madeline Miller,"['Fantasy', 'Fiction', 'Mythology', 'Historical Fiction', 'Greek Mythology', 'Retellings', 'Audiobook']",4.24
+The Myth of Sisyphus and Other Essays,Albert Camus,"['Philosophy', 'Nonfiction', 'Classics', 'Essays', 'France', 'Literature', 'French Literature']",4.22
+After Dunkirk,Lee Jackson,"['Historical Fiction', 'World War II', 'Fiction', 'War', 'Historical', 'Military Fiction', 'British Literature']",4.37
+Hopscotch,"Julio Cortázar","['Fiction', 'Classics', 'Spanish Literature', 'Literature', 'Novels', 'Latin American', 'Magical Realism']",4.21
+The Miracle of Mindfulness: An Introduction to the Practice of Meditation,Thich Nhat Hanh,"['Nonfiction', 'Spirituality', 'Buddhism', 'Philosophy', 'Self Help', 'Religion', 'Psychology']",4.19
+"These Is My Words: The Diary of Sarah Agnes Prine, 1881-1901, Arizona Territories",Nancy E. Turner,"['Historical Fiction', 'Fiction', 'Historical', 'Romance', 'Westerns', 'Book Club', 'Adult Fiction']",4.36
+A Man with A White Shadow,Vikram Suryawanshi,"['Fiction', 'India', 'Philosophy']",4.69
+Alive: The Story of the Andes Survivors,Piers Paul Read,"['Nonfiction', 'History', 'Survival', 'Adventure', 'Biography', 'Travel', 'Memoir']",4.13
+Be More Pirate: Or How to Take On the World and Win,Sam Conniff,"['Nonfiction', 'Business', 'Self Help', 'Philosophy', 'Pirates', 'Audiobook', 'Personal Development']",3.73
+Non Violent Communication A Language of Life,Marshall B. Rosenberg,"['Nonfiction', 'Psychology', 'Self Help', 'Communication', 'Relationships', 'Personal Development', 'Leadership']",4.34
+Undaunted Courage: The Pioneering First Mission to Explore America's Wild Frontier,Stephen E. Ambrose,"['History', 'Nonfiction', 'Biography', 'American History', 'Adventure', 'Historical', 'Travel']",4.22
+Child 44,Tom Rob Smith,"['Fiction', 'Historical Fiction', 'Thriller', 'Mystery', 'Crime', 'Russia', 'Historical']",4.1
+When Heroes Flew,"H.W. ""Buzz"" Bernard","['Historical Fiction', 'World War II', 'War', 'Fiction', 'Military Fiction', 'Realistic Fiction', 'Novels']",4.52
+"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",Richard P. Feynman,"['Science', 'Nonfiction', 'Biography', 'Physics', 'Memoir', 'Autobiography', 'Humor']",4.27
+We Should All Be Feminists,Chimamanda Ngozi Adichie,"['Nonfiction', 'Feminism', 'Essays', 'Audiobook', 'Politics', 'Womens', 'Africa']",4.4
+Kerri's War,Stephen Douglass,"['Thriller', 'Romance', 'Crime', 'Amazon']",3.85
+The Fire Next Time,James Baldwin,"['Nonfiction', 'Classics', 'Essays', 'Race', 'History', 'Politics', 'Social Justice']",4.54
+100 Love Sonnets,Pablo Neruda,"['Poetry', 'Classics', 'Romance', 'Fiction', 'Spanish Literature', 'Love', 'Latin American']",4.35
+Einstein: His Life and Universe,Walter Isaacson,"['Biography', 'Nonfiction', 'Science', 'History', 'Physics', 'Biography Memoir', 'Audiobook']",4.16
+Endurance: Shackleton's Incredible Voyage,Alfred Lansing,"['Nonfiction', 'History', 'Adventure', 'Biography', 'Audiobook', 'Travel', 'Survival']",4.44
+The Haunting of Hill House,Shirley Jackson,"['Horror', 'Fiction', 'Gothic', 'Mystery', 'Paranormal', 'Classics', 'Audiobook']",3.82
+Flags of Our Fathers,James D. Bradley,"['History', 'Nonfiction', 'Military Fiction', 'War', 'World War II', 'Biography', 'Military History']",4.22
+Fallen,Lauren Kate,"['Fantasy', 'Young Adult', 'Romance', 'Paranormal', 'Angels', 'Paranormal Romance', 'Fiction']",3.72
+"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Bessel van der Kolk,"['Nonfiction', 'Psychology', 'Self Help', 'Mental Health', 'Health', 'Science', 'Audiobook']",4.4
+Wizard's First Rule,Terry Goodkind,"['Fantasy', 'Fiction', 'Epic Fantasy', 'High Fantasy', 'Science Fiction Fantasy', 'Magic', 'Adventure']",4.12
+Hold Me Tight: Seven Conversations for a Lifetime of Love,Sue Johnson,"['Relationships', 'Nonfiction', 'Psychology', 'Self Help', 'Marriage', 'Love', 'Counselling']",4.12
+"Hush, Hush",Becca Fitzpatrick,"['Fantasy', 'Young Adult', 'Romance', 'Paranormal', 'Angels', 'Paranormal Romance', 'Fiction']",3.93
+Floating in Darkness - A Journey of Evolution,Ron Garan,"['Nonfiction', 'How To', 'Education', 'Drama', 'Book Club', 'Inspirational']",4.38
+1776,David McCullough,"['History', 'Nonfiction', 'American History', 'Historical', 'American Revolution', 'War', 'Audiobook']",4.09
+You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Jen Sincero,"['Self Help', 'Nonfiction', 'Personal Development', 'Audiobook', 'Psychology', 'Business', 'Inspirational']",3.95
+"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",Stephen E. Ambrose,"['History', 'Nonfiction', 'War', 'Military Fiction', 'World War II', 'Military History', 'Historical']",4.43
+Wizard's First Rule,Terry Goodkind,"['Fantasy', 'Fiction', 'Epic Fantasy', 'High Fantasy', 'Science Fiction Fantasy', 'Magic', 'Adventure']",4.12
+Hold Me Tight: Seven Conversations for a Lifetime of Love,Sue Johnson,"['Relationships', 'Nonfiction', 'Psychology', 'Self Help', 'Marriage', 'Love', 'Counselling']",4.12
+"Hush, Hush",Becca Fitzpatrick,"['Fantasy', 'Young Adult', 'Romance', 'Paranormal', 'Angels', 'Paranormal Romance', 'Fiction']",3.93
+Floating in Darkness - A Journey of Evolution,Ron Garan,"['Nonfiction', 'How To', 'Education', 'Drama', 'Book Club', 'Inspirational']",4.38
+1776,David McCullough,"['History', 'Nonfiction', 'American History', 'Historical', 'American Revolution', 'War', 'Audiobook']",4.09
+You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Jen Sincero,"['Self Help', 'Nonfiction', 'Personal Development', 'Audiobook', 'Psychology', 'Business', 'Inspirational']",3.95
+"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",Stephen E. Ambrose,"['History', 'Nonfiction', 'War', 'Military Fiction', 'World War II', 'Military History', 'Historical']",4.43
+The Thief,Robert Reid,[],4.34
+The Body Code: Unlocking Your Body's Ability to Heal Itself,Bradley Nelson,"['Health', 'Self Help', 'Nonfiction', 'Psychology', 'Spirituality', 'Science', 'Mental Health']",4.08
+Bill of Human Wrongs,C. Michaels,"['Mystery Thriller', 'Politics', 'Thriller']",4.35
+The Scare,Robert Shaw,"['Horror', 'Paranormal', 'Science Fiction Fantasy', 'Young Adult']",3.82
+Interpreter of Maladies,Jhumpa Lahiri,"['Short Stories', 'Fiction', 'India', 'Contemporary', 'Literary Fiction', 'Literature', 'Indian Literature']",4.17
+"Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are",Seth Stephens-Davidowitz,"['Nonfiction', 'Science', 'Psychology', 'Business', 'Technology', 'Economics', 'Sociology']",3.91
+Heart of Night and Fire,Nisha J. Tuli,"['Fantasy', 'Romance', 'Fantasy Romance', 'Vampires', 'Magic', 'New Adult', 'Mythology']",3.93
+Gathering Blue,Lois Lowry,"['Young Adult', 'Dystopia', 'Fiction', 'Fantasy', 'Science Fiction', 'Middle Grade', 'Classics']",3.82
+Hidden Figures,Margot Lee Shetterly,"['Nonfiction', 'History', 'Science', 'Biography', 'Feminism', 'Historical', 'Space']",3.97
+The Thief Lord,Cornelia Funke,"['Fantasy', 'Young Adult', 'Fiction', 'Middle Grade', 'Childrens', 'Adventure', 'Mystery']",3.98
+Immoral Origins,Lee Matthew Goldberg,"['Fiction', 'Contemporary', 'Epic', 'Drama', 'Novels', 'Thriller']",4.28
+The Kitchen God's Wife,Amy Tan,"['Fiction', 'Historical Fiction', 'China', 'Asia', 'Contemporary', 'Asian Literature', 'Historical']",4.03
+The Righteous Mind: Why Good People Are Divided by Politics and Religion,Jonathan Haidt,"['Nonfiction', 'Psychology', 'Philosophy', 'Religion', 'Science', 'Sociology', 'Politics']",4.21
+Memoirs of Hadrian,Marguerite Yourcenar,"['Historical Fiction', 'Fiction', 'Classics', 'France', 'Historical', 'Philosophy', 'Literature']",4.23
+"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,"['Fiction', 'Contemporary', 'Romance', 'Audiobook', 'Literary Fiction', 'Adult', 'Historical Fiction']",4.17
+Dark Passage,M.L. Woolley,"['Paranormal', 'Fantasy', 'Romance', 'Young Adult', 'Angels', 'Fiction', 'Mystery']",3.86
+"Sheever's Journal, Diary of a Poison Master",K. Ritz,"['Drama', 'Contemporary', 'Novels', 'Fantasy']",4.37
+Little Brother,Cory Doctorow,"['Young Adult', 'Science Fiction', 'Fiction', 'Dystopia', 'Cyberpunk', 'Teen', 'Thriller']",3.93
+I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer,Michelle McNamara,"['Nonfiction', 'True Crime', 'Audiobook', 'Crime', 'Mystery', 'Memoir', 'History']",4.12
+The Sex Lives of Siamese Twins,Irvine Welsh,"['Fiction', 'Thriller', 'Contemporary', 'Mystery', 'Dark', 'Adult', 'Drama']",3.66
+Walking into Dreams,Steven Decker,['Fiction'],4.29
+Sleepers,Lorenzo Carcaterra,"['Fiction', 'Crime', 'True Crime', 'Thriller', 'Mystery', 'Abuse', 'Mystery Thriller']",4.26
+Understanding Comics: The Invisible Art,Scott McCloud,"['Comics', 'Nonfiction', 'Graphic Novels', 'Art', 'Design', 'Graphic Novels Comics', 'Writing']",4.01
+Invisible Monsters Remix,Chuck Palahniuk,"['Fiction', 'Contemporary', 'Thriller', 'Horror', 'Novels', 'Humor', 'Mystery']",4
+Snuff,Chuck Palahniuk,"['Fiction', 'Contemporary', 'Novels', 'Adult', 'Horror', 'Humor', 'American']",3.22
+The Last Lumenian,S.G. Blaise,"['Fantasy', 'Science Fiction', 'Young Adult', 'Fiction', 'Novels', 'Contemporary', 'Romance']",4.26
+The End of Everything,Megan Abbott,"['Fiction', 'Mystery', 'Young Adult', 'Thriller', 'Contemporary', 'Mystery Thriller', 'Crime']",3.35
+The Sluts,Dennis Cooper,"['Horror', 'Fiction', 'Queer', 'LGBT', 'Gay', 'Contemporary', 'Thriller']",3.79
+America (The Book): A Citizen's Guide to Democracy Inaction,Jon Stewart,"['Humor', 'Nonfiction', 'Politics', 'Comedy', 'History', 'Audiobook', 'American History']",4.01
+Wild at Heart: Discovering the Secret of a Man's Soul,John Eldredge,"['Christian', 'Nonfiction', 'Christianity', 'Religion', 'Christian Living', 'Faith', 'Spirituality']",3.94
+Origin,Dan Brown,"['Fiction', 'Thriller', 'Mystery', 'Mystery Thriller', 'Audiobook', 'Adventure', 'Suspense']",3.89
+Angelfall,Susan Ee,"['Fantasy', 'Young Adult', 'Angels', 'Dystopia', 'Paranormal', 'Romance', 'Urban Fantasy']",4.11
+Midnight Sacrifice,Melinda Leigh,"['Romantic Suspense', 'Mystery', 'Romance', 'Suspense', 'Thriller', 'Fiction', 'Crime']",4.24
+The Last Lecture,Randy Pausch,"['Nonfiction', 'Memoir', 'Biography', 'Self Help', 'Inspirational', 'Philosophy', 'Autobiography']",4.26
+Tales of the City,Armistead Maupin,"['Fiction', 'LGBT', 'Queer', 'Humor', 'Gay', 'Classics', 'Contemporary']",4
+The Scorch Trials,James Dashner,"['Young Adult', 'Dystopia', 'Science Fiction', 'Fiction', 'Fantasy', 'Adventure', 'Post Apocalyptic']",3.9
+Self-Reliance and Other Essays,Ralph Waldo Emerson,"['Philosophy', 'Classics', 'Nonfiction', 'Essays', 'Literature', 'Self Help', 'History']",4.12
+Pippi Longstocking,Astrid Lindgren,"['Classics', 'Childrens', 'Fiction', 'Middle Grade', 'Young Adult', 'Fantasy', 'Humor']",4.15
+The Diving Bell and the Butterfly,Jean-Dominique Bauby,"['Nonfiction', 'Memoir', 'Biography', 'Biography Memoir', 'Autobiography', 'France', 'Medicine']",3.98
+Stargirl,Jerry Spinelli,"['Young Adult', 'Fiction', 'Contemporary', 'Realistic Fiction', 'Romance', 'Middle Grade', 'Childrens']",3.77
+The Epic of Gilgamesh,Anonymous,"['Classics', 'Poetry', 'Fiction', 'Mythology', 'Literature', 'Fantasy', 'School']",3.72
+The Bluest Eye,Toni Morrison,"['Fiction', 'Classics', 'Historical Fiction', 'Banned Books', 'Race', 'African American', 'Literary Fiction']",4.12
+My Ántonia,Willa Cather,"['Fiction', 'Historical Fiction', 'Classics', 'Literature', 'School', 'Historical', 'American']",3.83
+The Art of Happiness,Dalai Lama XIV,"['Nonfiction', 'Philosophy', 'Spirituality', 'Self Help', 'Buddhism', 'Psychology', 'Personal Development']",4.17
+Anthem,Ayn Rand,"['Fiction', 'Classics', 'Dystopia', 'Philosophy', 'Science Fiction', 'School', 'Literature']",3.62
+Breakfast at Tiffany’s and Three Stories,Truman Capote,"['Classics', 'Fiction', 'Short Stories', 'Romance', 'American', 'Literature', 'Audiobook']",3.84
+Of Monsters And Planes,Johnathon Nicolaou,"['Autistic Spectrum Disorder', 'Science Fiction']",4.59
+Dome: Rebellion,Johnathon Nicolaou,"['Science Fiction', 'Fiction', 'Dystopia', 'Fantasy', 'Post Apocalyptic']",4.45
+White Fang,Jack London,"['Fiction', 'Classics', 'Adventure', 'Animals', 'Young Adult', 'Historical Fiction', 'Literature']",4.02
+Howl’s Moving Castle,Diana Wynne Jones,"['Fantasy', 'Young Adult', 'Fiction', 'Middle Grade', 'Magic', 'Classics', 'Childrens']",4.29
+The Heart Is a Lonely Hunter,Carson McCullers,"['Fiction', 'Classics', 'Literature', 'Novels', 'Historical Fiction', 'Southern Gothic', 'Literary Fiction']",3.99
+The Thirteenth Tale,Diane Setterfield,"['Fiction', 'Mystery', 'Historical Fiction', 'Gothic', 'Books About Books', 'Fantasy', 'Adult']",3.98
+The Remains of the Day,Kazuo Ishiguro,"['Fiction', 'Historical Fiction', 'Classics', 'Literary Fiction', 'Historical', 'Literature', 'Novels']",4.14
+A Time to Kill,John Grisham,"['Fiction', 'Thriller', 'Mystery', 'Crime', 'Suspense', 'Legal Thriller', 'Mystery Thriller']",4.11
+Around the World in Eighty Days,Jules Verne,"['Fiction', 'Adventure', 'Classics', 'Science Fiction', 'France', 'Travel', 'Fantasy']",3.94
+The Secret History,Donna Tartt,"['Fiction', 'Mystery', 'Classics', 'Contemporary', 'Thriller', 'Literary Fiction', 'Mystery Thriller']",4.17
+She’s Come Undone,Wally Lamb,"['Fiction', 'Contemporary', 'Chick Lit', 'Coming Of Age', 'Adult Fiction', 'Novels', 'Adult']",3.91
+Still Alice,Lisa Genova,"['Fiction', 'Contemporary', 'Psychology', 'Book Club', 'Adult Fiction', 'Adult', 'Audiobook']",4.32
+Marley and Me: Life and Love With the World’s Worst Dog,John Grogan,"['Nonfiction', 'Memoir', 'Animals', 'Biography', 'Dogs', 'Humor', 'Biography Memoir']",4.14
+The Left Hand of Darkness,Ursula K. Le Guin,"['Science Fiction', 'Fiction', 'Fantasy', 'Classics', 'Science Fiction Fantasy', 'Speculative Fiction', 'Feminism']",4.1
+The Voyage of the Dawn Treader,C.S. Lewis,"['Fantasy', 'Fiction', 'Young Adult', 'Childrens', 'Adventure', 'Christian', 'Middle Grade']",4.09
+Northanger Abbey,Jane Austen,"['Fiction', 'Classics', 'Gothic', 'Historical Fiction', 'Literature', '19th Century', 'Historical']",3.85
+Houdini Heart,Ki Longfellow,"['Horror', 'Fantasy', 'Mystery', 'Fiction', 'Magical Realism', 'Gothic', 'Literature']",3.84
+Middlemarch,George Eliot,"['Classics', 'Fiction', 'Historical Fiction', 'Literature', '19th Century', 'Victorian', 'Novels']",4.02
+A Wizard of Earthsea,Ursula K. Le Guin,"['Fantasy', 'Fiction', 'Young Adult', 'Science Fiction Fantasy', 'Magic', 'High Fantasy', 'Science Fiction']",4.01
+King Lear,William Shakespeare,"['Classics', 'Plays', 'Fiction', 'School', 'Theatre', 'Literature', 'Poetry']",3.91
+The Wind-Up Bird Chronicle,Haruki Murakami,"['Fiction', 'Magical Realism', 'Japanese Literature', 'Fantasy', 'Contemporary', 'Novels', 'Literature']",4.15
+"I, Robot",Isaac Asimov,"['Science Fiction', 'Fiction', 'Classics', 'Short Stories', 'Science Fiction Fantasy', 'Fantasy', 'Robots']",4.21
+The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,"['History', 'Nonfiction', 'War', 'World War II', 'Politics', 'Germany', 'Historical']",4.21
+Sarah's Key,Tatiana de Rosnay,"['Historical Fiction', 'Fiction', 'Holocaust', 'Historical', 'World War II', 'France', 'War']",4.18
+The Hunchback of Notre-Dame,Victor Hugo,"['Classics', 'Fiction', 'Historical Fiction', 'France', 'Literature', 'French Literature', 'Gothic']",4.02
+Different Seasons,Stephen King,"['Horror', 'Fiction', 'Short Stories', 'Thriller', 'Mystery', 'Fantasy', 'Classics']",4.35
+The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,"['Nonfiction', 'Food', 'Science', 'Health', 'History', 'Nutrition', 'Environment']",4.18
+Mistress Suffragette,Diana Forbes,"['Historical Fiction', 'Fiction', 'New Adult', 'Historical', 'Romance', 'Adult', 'Young Adult']",4.29
+World War Z: An Oral History of the Zombie War,Max Brooks,"['Horror', 'Fiction', 'Zombies', 'Science Fiction', 'Fantasy', 'Post Apocalyptic', 'Dystopia']",4.02
+11/22/1963,Stephen King,"['Fiction', 'Historical Fiction', 'Science Fiction', 'Time Travel', 'Horror', 'Fantasy', 'Thriller']",4.34
+A Portrait of the Artist as a Young Man,James Joyce,"['Classics', 'Fiction', 'Literature', 'Irish Literature', 'Ireland', 'Novels', '20th Century']",3.64
+Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,"['Food', 'Sociology', 'Politics', 'History', 'Science', 'School', 'Business']",3.75
+"Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead",Fyodor Dostoevsky,"['Classics', 'Fiction', 'Russia', 'Philosophy', 'Russian Literature', 'Literature', 'Novels']",4.19
+I Know This Much Is True,Wally Lamb,"['Fiction', 'Contemporary', 'Literary Fiction', 'Novels', 'Adult Fiction', 'Mental Health', 'Mental Illness']",4.2
+The Power of Myth,Joseph Campbell,"['Nonfiction', 'Mythology', 'Philosophy', 'History', 'Psychology', 'Spirituality', 'Classics']",4.26
+Breakfast of Champions,Kurt Vonnegut Jr.,"['Fiction', 'Classics', 'Science Fiction', 'Humor', 'Literature', 'Novels', 'American']",4.07
+The Amber Spyglass,Philip Pullman,"['Fantasy', 'Young Adult', 'Fiction', 'Adventure', 'Science Fiction', 'Childrens', 'Audiobook']",4.1
+The Martian,Andy Weir,"['Science Fiction', 'Fiction', 'Audiobook', 'Adventure', 'Space', 'Adult', 'Thriller']",4.42
+Veronika Decides to Die,Paulo Coelho,"['Fiction', 'Contemporary', 'Philosophy', 'Novels', 'Psychology', 'Mental Health', 'Romance']",3.73
+Taming Flame,Therisa Peimer,"['Drama', 'Romance', 'Realistic Fiction', 'Young Adult Romance', 'Contemporary Romance', 'Romantic', 'Fiction']",4.32
+Tales of Old: Greek Mythology: Volume 1,Johnathon Nicolaou,"['Greek Mythology', 'Mythology']",4.36
+Harper Lee's To Kill a Mockingbird,Harold Bloom,"['Classics', 'Fiction', 'Historical Fiction', 'High School', 'Literature', 'School', 'Literary Criticism']",4.44
+The Magician’s Nephew,C.S. Lewis,"['Fantasy', 'Fiction', 'Young Adult', 'Childrens', 'Middle Grade', 'Christian', 'Adventure']",4.05
+The Marriage Portrait,Maggie O'Farrell,"['Historical Fiction', 'Fiction', 'Historical', 'Italy', 'Audiobook', 'Literary Fiction', 'Adult']",4.02
+Snow Flower and the Secret Fan,Lisa See,"['Historical Fiction', 'Fiction', 'China', 'Historical', 'Book Club', 'Adult', 'Asian Literature']",4.09
+Bridget Jones’s Diary,Helen Fielding,"['Fiction', 'Chick Lit', 'Romance', 'Humor', 'Contemporary', 'Comedy', 'Adult']",3.8
+Ishmael,Daniel Quinn,"['Fiction', 'Philosophy', 'Spirituality', 'Classics', 'Fantasy', 'Environment', 'Novels']",4.01
+White Oleander,Janet Fitch,"['Fiction', 'Contemporary', 'Coming Of Age', 'Drama', 'Literary Fiction', 'Adult Fiction', 'Chick Lit']",3.99
+Trainspotting,Irvine Welsh,"['Fiction', 'Contemporary', 'Classics', 'Scotland', 'Novels', 'Crime', 'Literature']",4.1
+The Selfish Gene,Richard Dawkins,"['Science', 'Nonfiction', 'Biology', 'Evolution', 'Philosophy', 'Psychology', 'Popular Science']",4.16
+The Three Witches and the Master,Max Nowaz,"['Fiction', 'Novels', 'Adventure', 'Science Fiction Fantasy', 'Fantasy', 'Speculative Fiction', 'High Fantasy']",4.31
+The Purpose Driven Life: What on Earth Am I Here for?,Rick Warren,"['Christian', 'Nonfiction', 'Religion', 'Self Help', 'Spirituality', 'Christianity', 'Faith']",3.97
+The Prince and the Pauper,Mark Twain,"['Classics', 'Fiction', 'Historical Fiction', 'Literature', 'Childrens', 'Adventure', 'Young Adult']",3.87
+A Storm of Infinite Beauty,Julianne MacLean,"['Fiction', 'Romance', 'Realistic Fiction', 'Love Story', 'Love', 'Chick Lit', 'Young Adult Romance']",4.33
+Nineteen Steps,Millie Bobby Brown,"['Historical Fiction', 'Romance', 'Fiction', 'Audiobook', 'Historical', 'Realistic Fiction', 'Young Adult Romance']",3.73
+Infinite Jest,David Foster Wallace,"['Fiction', 'Classics', 'Literature', 'Novels', 'Contemporary', 'Humor', 'Literary Fiction']",4.25
+Death Be Not Proud,John Gunther,"['Nonfiction', 'Classics', 'Memoir', 'Biography', 'Biography Memoir', 'Death', 'School']",3.85
+I Capture the Castle,Dodie Smith,"['Classics', 'Fiction', 'Young Adult', 'Historical Fiction', 'Romance', 'Coming Of Age', 'Historical']",4
+"Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation",Lynne Truss,"['Nonfiction', 'Writing', 'Language', 'Reference', 'Humor', 'Linguistics', 'Education']",3.87
+Jitterbug Perfume,Tom Robbins,"['Fiction', 'Fantasy', 'Humor', 'Magical Realism', 'Literature', 'Novels', 'Classics']",4.23
+Far From the Madding Crowd,Thomas Hardy,"['Classics', 'Fiction', 'Romance', 'Historical Fiction', 'Literature', '19th Century', 'Victorian']",3.96
+Counter Identity,Karl Braungart,"['Drama', 'Contemporary', 'Novels', 'Fiction', 'Mystery']",4.3
+Maus I: A Survivor's Tale: My Father Bleeds History,Art Spiegelman,"['Graphic Novels', 'Comics', 'History', 'Nonfiction', 'Memoir', 'Holocaust', 'Biography']",4.38
+Exodus,Leon Uris,"['Historical Fiction', 'Fiction', 'Classics', 'Historical', 'Israel', 'Jewish', 'War']",4.34
+Neuromancer,William Gibson,"['Science Fiction', 'Fiction', 'Cyberpunk', 'Classics', 'Dystopia', 'Science Fiction Fantasy', 'Fantasy']",3.89
+The Story of Ferdinand,Munro Leaf,"['Picture Books', 'Childrens', 'Classics', 'Fiction', 'Animals', 'Spain', 'Kids']",4.37
+Clockwork Angel,Cassandra Clare,"['Fantasy', 'Young Adult', 'Romance', 'Paranormal', 'Steampunk', 'Historical Fiction', 'Fiction']",4.31
+Starship Troopers,Robert A. Heinlein,"['Science Fiction', 'Fiction', 'Classics', 'Military Fiction', 'War', 'Science Fiction Fantasy', 'Space Opera']",4.01
+Flowers in the Attic,V.C. Andrews,"['Fiction', 'Horror', 'Young Adult', 'Classics', 'Mystery', 'Gothic', 'Thriller']",3.85
+The Invention of Hugo Cabret,Brian Selznick,"['Historical Fiction', 'Fiction', 'Young Adult', 'Middle Grade', 'Childrens', 'Graphic Novels', 'Fantasy']",4.22
+’Salem’s Lot,Stephen King,"['Horror', 'Fiction', 'Vampires', 'Fantasy', 'Thriller', 'Paranormal', 'Supernatural']",4.06
+The Gunslinger,Stephen King,"['Fantasy', 'Fiction', 'Horror', 'Science Fiction', 'Westerns', 'Audiobook', 'Adventure']",3.92
+I'm Just Saying: The Art of Civil Discourse: A Guide to Maintaining Courteous Communication in an Increasingly Divided World,Milan Kordestani,"['Nonfiction', 'Self Help', 'Communication', 'Psychology', 'Personal Development', 'Politics', 'Social']",4.26
+Black Like Me,John Howard Griffin,"['Nonfiction', 'History', 'Memoir', 'Classics', 'Biography', 'Race', 'African American']",4.11
+Eldest,Christopher Paolini,"['Fantasy', 'Young Adult', 'Fiction', 'Dragons', 'Adventure', 'Magic', 'High Fantasy']",4.03
+The Big Sleep,Raymond Chandler,"['Mystery', 'Fiction', 'Classics', 'Crime', 'Noir', 'Detective', 'Mystery Thriller']",3.95
+Vanity Fair,William Makepeace Thackeray,"['Classics', 'Fiction', 'Historical Fiction', 'Literature', '19th Century', 'Romance', 'British Literature']",3.8
+The Age of Innocence,Edith Wharton,"['Classics', 'Fiction', 'Historical Fiction', 'Romance', 'Literature', 'American', 'Historical']",3.97
+Brisingr,Christopher Paolini,"['Fantasy', 'Young Adult', 'Fiction', 'Dragons', 'Adventure', 'Magic', 'High Fantasy']",4.09
+Song of Solomon,Toni Morrison,"['Fiction', 'Classics', 'Historical Fiction', 'African American', 'Magical Realism', 'Novels', 'Literature']",4.14
+Ethan Frome,Edith Wharton,"['Classics', 'Fiction', 'Romance', 'Literature', 'School', 'Historical Fiction', 'American']",3.44
+Skagboys,Irvine Welsh,"['Fiction', 'Contemporary', 'Thriller', 'Mystery', 'Scotland', 'Crime', 'Dark']",4.05
+Utopia,Thomas More,"['Classics', 'Philosophy', 'Fiction', 'Politics', 'Literature', 'Dystopia', 'School']",3.55
+Lunar Park,Bret Easton Ellis,"['Fiction', 'Horror', 'Thriller', 'Mystery', 'Contemporary', 'Novels', 'American']",3.65
+Vampire Academy,Richelle Mead,"['Young Adult', 'Fantasy', 'Vampires', 'Paranormal', 'Romance', 'Urban Fantasy', 'Fiction']",4.11
+The Elegance of the Hedgehog,Muriel Barbery,"['Fiction', 'France', 'Philosophy', 'Literary Fiction', 'Book Club', 'Contemporary', 'Novels']",3.8
+The Polymorph,Max Nowaz,"['Science Fiction', 'Fiction']",4.29
+The Shipping News,Annie Proulx,"['Fiction', 'Contemporary', 'Canada', 'Literary Fiction', 'Literature', 'Novels', 'Classics']",3.88
+Scavenger Hunt,Chad Boudreaux,"['Mystery', 'Drama', 'Thriller', 'Novels', 'Mystery Thriller', 'Suspense', 'Murder Mystery']",4.3
+Walks Away Woman,Ki Longfellow,"['Survival', 'Adventure', 'Fiction', 'Novels', 'Thriller', 'Literature', 'Womens']",4.37
+"Lean In: Women, Work, and the Will to Lead",Sheryl Sandberg,"['Nonfiction', 'Business', 'Feminism', 'Self Help', 'Leadership', 'Audiobook', 'Womens']",3.95
+P.S. I Love You,Cecelia Ahern,"['Romance', 'Chick Lit', 'Fiction', 'Contemporary', 'Adult', 'Contemporary Romance', 'Love']",4.03
+The Waste Land,T.S. Eliot,"['Poetry', 'Classics', 'Fiction', 'Literature', '20th Century', 'School', 'American']",4.11
+An American Beauty,Shana Abe,"['Historical Fiction', 'Fiction', 'Romance', 'Historical', 'Drama', 'Young Adult Romance', 'Realistic Fiction']",4.17
+City of Ashes,Cassandra Clare,"['Fantasy', 'Young Adult', 'Romance', 'Paranormal', 'Urban Fantasy', 'Fiction', 'Vampires']",4.11
+Boy of Chaotic Making,Charlie N. Holmberg,"['Fantasy', 'Fiction', 'Romance', 'Historical Fiction', 'Love Story', 'Young Adult Romance', 'Love']",4.32
+The Last Olympian,Rick Riordan,"['Fantasy', 'Young Adult', 'Mythology', 'Fiction', 'Middle Grade', 'Adventure', 'Greek Mythology']",4.55
+The Cheat Code,Misba,"['Fantasy', 'Science Fiction', 'Science Fiction Fantasy', 'Post Apocalyptic', 'Adventure', 'Adult', 'Thriller']",4.6
+Of Human Bondage,W. Somerset Maugham,"['Classics', 'Fiction', 'Literature', 'Novels', 'Romance', 'British Literature', 'Literary Fiction']",4.14
+Always Remember: Ben's Story,Mary Balogh,"['Romance', 'Historical Romance', 'Fiction', 'Historical', 'Historical Fiction', 'Romantic', 'Love Story']",4.16
+Dreams from My Father: A Story of Race and Inheritance,Barack Obama,"['Nonfiction', 'Biography', 'Memoir', 'Politics', 'Autobiography', 'Audiobook', 'History']",3.93
+I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,Malala Yousafzai,"['Nonfiction', 'Biography', 'Memoir', 'Feminism', 'Autobiography', 'Audiobook', 'History']",4.15
+If I Stay,Gayle Forman,"['Young Adult', 'Romance', 'Contemporary', 'Fiction', 'Realistic Fiction', 'Teen', 'Music']",3.92
+Contact,Carl Sagan,"['Science Fiction', 'Fiction', 'Classics', 'Science Fiction Fantasy', 'Space', 'Novels', 'Fantasy']",4.15
+Medea,Euripides,"['Classics', 'Plays', 'Drama', 'Mythology', 'Fiction', 'School', 'Literature']",3.93
+The Hate U Give,Angie Thomas,"['Young Adult', 'Fiction', 'Contemporary', 'Audiobook', 'Realistic Fiction', 'Race', 'Social Justice']",4.47
+Insurgent,Veronica Roth,"['Young Adult', 'Dystopia', 'Fantasy', 'Fiction', 'Science Fiction', 'Romance', 'Adventure']",3.97
+Ral's Woman,Laurann Dohner,"['Romance', 'Science Fiction', 'Aliens', 'Erotica', 'Paranormal', 'Paranormal Romance', 'Fantasy']",3.82
+A Heartbreaking Work of Staggering Genius,Dave Eggers,"['Fiction', 'Contemporary', 'Literature', 'Humor', 'Biography Memoir', 'Novels', 'American']",3.69
+Complete Works of Arthur Conan Doyle,Arthur Conan Doyle,"['Classics', 'Fiction', 'Mystery', 'Literature', 'Crime', 'Adventure', 'Detective']",4.49
+Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,"['Nonfiction', 'True Crime', 'History', 'Religion', 'Crime', 'Audiobook', 'Cults']",4.01
+The Sorrows of Young Werther,Johann Wolfgang von Goethe,"['Fiction', 'German Literature', 'Classics', 'Literature', 'Romance', 'Germany', 'Novels']",3.69
+Dubliners,James Joyce,"['Classics', 'Fiction', 'Short Stories', 'Ireland', 'Literature', 'Irish Literature', '20th Century']",3.84
+As I Lay Dying,William Faulkner,"['Classics', 'Fiction', 'Literature', 'Novels', 'American', 'School', 'Southern Gothic']",3.72
+Black Fire,William Kely McClung,"['Thriller', 'Fiction']",4.3
+Misery,Stephen King,"['Horror', 'Fiction', 'Thriller', 'Mystery', 'Suspense', 'Mystery Thriller', 'Adult']",4.21
+Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,"['History', 'Nonfiction', 'Science', 'Anthropology', 'Sociology', 'Politics', 'Environment']",3.93
+The MacKinnon's Bride,Tanya Anne Crosby,"['Romance', 'Historical Romance', 'Historical', 'Historical Fiction', 'Medieval', 'Fiction', 'Young Adult Romance']",3.97
+Ficciones,Jorge Luis Borges,"['Fiction', 'Short Stories', 'Magical Realism', 'Fantasy', 'Literature', 'Spanish Literature', 'Philosophy']",4.42
+Ella Enchanted,Gail Carson Levine,"['Fantasy', 'Young Adult', 'Fiction', 'Romance', 'Middle Grade', 'Childrens', 'Fairy Tales']",4.01
+The Bad Beginning,Lemony Snicket,"['Fiction', 'Young Adult', 'Fantasy', 'Childrens', 'Middle Grade', 'Mystery', 'Adventure']",4.01
+The Only One Left,Riley Sager,"['Thriller', 'Mystery', 'Mystery Thriller', 'Fiction', 'Horror', 'Audiobook', 'Gothic']",4.14
+Before I Fall,Lauren Oliver,"['Young Adult', 'Contemporary', 'Fiction', 'Romance', 'Fantasy', 'Paranormal', 'Realistic Fiction']",3.89
+Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone,Brené Brown,"['Nonfiction', 'Self Help', 'Psychology', 'Audiobook', 'Personal Development', 'Leadership', 'Mental Health']",4.13
+The Girl Who Drank the Moon,Kelly Barnhill,"['Fiction', 'Young Adult', 'Childrens', 'Magic', 'Audiobook', 'Witches', 'Dragons']",4.12
+Antigone - Oedipus the King - Electra,Sophocles,"['Classics', 'Plays', 'Fiction', 'Drama', 'Mythology', 'School', 'Literature']",3.94
+The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror,Robert Louis Stevenson,"['Classics', 'Horror', 'Fiction', 'Gothic', 'Science Fiction', 'Mystery', 'Fantasy']",3.92
+Half the Sky: Turning Oppression into Opportunity for Women Worldwide,Nicholas D. Kristof,"['Nonfiction', 'Feminism', 'Social Justice', 'Womens', 'Politics', 'Sociology', 'Africa']",4.28
+Who Has Buried the Dead?: From Stalin to Putin … The last great secret of World War Two,K.G.E. Konkel,"['Contemporary', 'Novels', 'Drama']",4.32
+Money,Martin Amis,"['Fiction', 'Classics', 'Novels', 'Contemporary', 'Literature', 'Literary Fiction', 'British Literature']",3.69
+"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,"['Nonfiction', 'Psychology', 'Business', 'Audiobook', 'Self Help', 'Sociology', 'Science']",3.97
+The Coven of Deeds,Malcolm McCoard,['Fantasy'],4.36
+Nicu II and Victoria's Incestuous Romance,Kenneth Jarrett Singleton,"['Fiction', 'Plays', 'Contemporary', 'Drama', 'Historical Fiction', 'Romance', 'Suspense']",4.38
+The Infinite Jeff: A Parable of Change,Will Holcomb,['Spirituality'],4.59
+Love on the Line 2,Kirsten Fullmer,"['Young Adult Romance', 'Love Story', 'Drama', 'Realistic Fiction', 'Fiction', 'Love', 'Romance']",4.30
+Everybody Knows,Jordan Harper,"['Mystery', 'Fiction', 'Thriller', 'Crime', 'Mystery Thriller', 'Noir', 'Suspense']",3.77
